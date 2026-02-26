@@ -1,0 +1,49 @@
+name: Update FabricKB Knowledge Base
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-knowledge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run knowledge update script
+        env:
+          READWISE_TOKEN: ${{ secrets.READWISE_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python update_knowledge.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "FabricKB Bot"
+          git add FABRIC_KNOWLEDGE.md .processed_ids.json
+          git diff --staged --quiet || git commit -m "🤖 Auto-update knowledge base [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
