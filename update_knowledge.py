@@ -40,8 +40,18 @@ def fetch_all_readwise_documents():
     return docs
 
 
+def is_reader_doc_id(doc_id):
+    """Reader documents use alphanumeric IDs (e.g. 01kjf01q4r51p60rszajkc1p4k).
+    Classic Readwise books use numeric integer IDs. Only numeric IDs work with v2 API."""
+    return not str(doc_id).isdigit()
+
+
 def fetch_readwise_highlights(doc_id):
-    """Fetch highlights for a specific document."""
+    """Fetch highlights for a classic Readwise document (numeric ID only).
+    Reader documents (alphanumeric IDs) don't support the v2 highlights endpoint."""
+    if is_reader_doc_id(doc_id):
+        return []  # Reader docs — highlights not available via v2 API
+
     url = "https://readwise.io/api/v2/highlights/"
     headers = {"Authorization": f"Token {READWISE_TOKEN}"}
     params = {"book_id": doc_id, "page_size": 100}
