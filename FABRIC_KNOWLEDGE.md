@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-02-27 13:04 UTC
-> 70 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-02-27 18:49 UTC
+> 71 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Sean Kallenberg’s Post](https://www.linkedin.com/posts/sean-kallenberg-25323214b_onelake-fabric-recipessamplecodepurepythondeltatableloadpy-activity-7433104995539030016-9rz3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-02-27 · 🌐 Reader add from import URL
+
+**Summary:** Teams often overspend on Microsoft Fabric due to incorrect initial capacity unit (CU) sizing. Cost optimization requires careful CU monitoring, proper pause timing, appropriate compute type selection, and a start-small-then-scale approach.
+
+**Key Concepts:** Capacity units, Cost optimization, Compute sizing, Capacity monitoring, Fabric pricing
 
 ---
 

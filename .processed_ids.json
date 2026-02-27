@@ -768,5 +768,22 @@
     },
     "highlights": [],
     "processed_at": "2026-02-27T08:29:01.458692+00:00"
+  },
+  "01kjfmjahaws8vxfnrxvw31957": {
+    "title": "Sean Kallenberg\u2019s Post",
+    "ai": {
+      "summary": "Teams often overspend on Microsoft Fabric due to incorrect initial capacity unit (CU) sizing. Cost optimization requires careful CU monitoring, proper pause timing, appropriate compute type selection, and a start-small-then-scale approach.",
+      "key_concepts": [
+        "Capacity units",
+        "Cost optimization",
+        "Compute sizing",
+        "Capacity monitoring",
+        "Fabric pricing"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T18:49:19.782261+00:00"
   }
 }
