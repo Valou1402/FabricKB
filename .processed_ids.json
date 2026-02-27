@@ -1,0 +1,772 @@
+{
+  "01kjf01q4r51p60rszajkc1p4k": {
+    "title": "How Janus Henderson built a hybrid Snowflake-Databricks architecture",
+    "ai": {
+      "summary": "Analysts and business users rely on Snowflake for fast, governed insights.\n\nData engineers and scientists work in Databricks to build transformations, streaming pipelines, and ML models.\n\nThis division of personas is why many enterprises run both platforms together.\n\nEach environment plays to its strengths \u2014 but the challenge is creating a unified architecture where workloads, governance, and costs remain in balance.\n\nArchitectural patterns, such as Medallion Architecture, help bridge the gap by aligning raw, curated, and business-ready layers across Snowflake and Databricks into a consistent lifecycle.\n\nIn practice, this means:\n\n- Raw (Bronze): Data is ingested into Databricks, where engineers and scientists handle transformations and model training.\n\n- Curated (Silver): Cleaned and standardized data flows through pipelines, creating a consistent layer that bridges Databricks and Snowflake.\n\n- Business-Ready (Gold): Governed datasets are published in Snowflake for analysts and business users to query with confidence\n\nJoin us today at 1 PM ET to learn how our client Janus Henderson Investors brought this architecture to life \u2014 combining both platforms into a scalable, governed, and cost-efficient hybrid environment.\n\nRegister here: https://lnkd.in/gvYCUY44\n\nYou\u2019ll hear from Wayne Eckerson, Michael Spiessbach, and Mark Goodwin. \n\n#UnifiedArchitecture",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:52.340586+00:00"
+  },
+  "01kjeztp883ees4y0zmvxjnmhf": {
+    "title": "Kurt Buhler\u2019s Post",
+    "ai": {
+      "summary": "Choosing a storage mode for your Power BI model is very important, but can be confusing. This article gives you an overview, some key considerations, and a few tips: https://lnkd.in/e6jayjd2\n\n\nThe quick reference image here is high-level. Check the article for details, references, and other resources.\n\n#MicrosoftFabric #PowerBI #StorageMode #Godot | 11 comments on LinkedIn",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:52.454281+00:00"
+  },
+  "01kjezrrz870vq8fwb5tvbbr68": {
+    "title": "Marc Lelijveld\u2019s Post",
+    "ai": {
+      "summary": "\ud83d\ude80 \ud835\uddd4\ud835\ude02\ud835\ude01\ud835\uddfc\ud835\uddfa\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde3\ud835\uddfc\ud835\ude04\ud835\uddf2\ud835\uddff \ud835\uddd5\ud835\udddc \ud835\udde6\ud835\uddf2\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\uddf0 \ud835\udde0\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9 \ud835\udde6\ud835\uddf2\ud835\uddf0\ud835\ude02\ud835\uddff\ud835\uddf6\ud835\ude01\ud835\ude06 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\uddd9\ud835\uddee\ud835\uddef\ud835\uddff\ud835\uddf6\ud835\uddf0 \ud835\udde6\ud835\uddf2\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\uddf0 \ud835\udddf\ud835\uddf6\ud835\uddfb\ud835\uddf8\n\nEver updated a templated Fabric solution (like the Fabric Unified Admin Monitoring (FUAM)), only to realize your custom security setup was overwritten? \ud83d\ude2c\n\nThat\u2019s exactly what could happen after each update! But of course, you don't want to manually reconfigure roles, users, and filters all over again. A manual, error-prone, and time-consuming process.\n\nSo\u2026 why not automate it? \ud83d\udca1\nIn my latest blog, I show how you can script and deploy your security configurations directly to your semantic models using Fabric Semantic Link. From defining roles and assigning members, to setting up RLS expressions, all in a reusable, parameterized Fabric notebook.\n\n\ud83d\udc49 Read the full walkthrough and grab the sample notebook from my GitHub:\n \ud83d\udd17 https://lnkd.in/er3pvbvu\n#MicrosoftFabric #PowerBI #SemanticLink #DataGovernance #Automation #FabricCommunity",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:52.592332+00:00"
+  },
+  "01kjezpsrchk65qgac6tn8618c": {
+    "title": "How Microsoft Fabric ensures business continuity with BCDR",
+    "ai": {
+      "summary": "Building Resilience with Microsoft Fabric: Business Continuity and Disaster Recovery (BCDR) Simplified\n\nIn Financial Services and other mission-critical industries, analytics and AI cannot afford downtime. Microsoft Fabric\u2019s end-to-end BCDR framework ensures operational continuity, even in the face of regional outages or disasters.\n\nHere\u2019s how Fabric BCDR transforms resilience:\n\n- Automated Geo-Replication: OneLake data is asynchronously mirrored across Azure paired regions for durability and compliance.\n- Artifact Versioning: Git-integrated pipelines, notebooks, and semantic models can be instantly reconstructed post-failover.\n- Orchestrated Recovery: Fabric automates failover provisioning, workspace recreation, and integrity validation within an RTO and RPO based on business requirements and application.\n- Real-time Monitoring: Replication health, lag, and cost metrics are surfaced natively in Fabric Capacity Metrics.\n- Regulatory Confidence: BCDR meets stringent FSI continuity mandates with full audit trails and DR-drill documentation.\n\nIn a world where data is the new gold, continuity is the new currency. \n\n#MicrosoftFabric #BCDR #DataEngineering #Azure #Resilience #OneLake #AI #Analytics ",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:52.748798+00:00"
+  },
+  "01kjezpaytn9bst14349eganyz": {
+    "title": "Integrating Azure AI Foundry with Microsoft Fabric",
+    "ai": {
+      "summary": "The article shows how to call an Azure AI Foundry Content Understanding endpoint from a Microsoft Fabric notebook to extract data from complex documents and save results to a Fabric Lakehouse. It explains storing secrets in Azure Key Vault, using managed private endpoints, and building reusable pipelines and variable libraries. Finally, it describes publishing a Fabric Data Agent for Q&A and using it with Power BI Copilot and other apps.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:52.881490+00:00"
+  },
+  "01kjezmp0rt6q4q0epxe9yd4zr": {
+    "title": "Fabric Spark best practices overview - Microsoft Fabric",
+    "ai": {
+      "summary": "This series gives best practices for running Spark Notebooks and Spark Job Definitions on Microsoft Fabric. It covers performance, security, and cost optimization. New users should read the Spark Basics and Fabric data engineering docs first.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:53.005667+00:00"
+  },
+  "01kjezkh9szt23w0b0j0d5cvn1": {
+    "title": "Authenticate as a service principal to run a Microsoft Fabric notebook from Azure DevOps",
+    "ai": {
+      "summary": "The post shows how to authenticate as a service principal to run Microsoft Fabric notebooks from Azure DevOps using the REST API. It explains three pipeline tasks: get the notebook ID, start the notebook run, and poll run status, with PowerShell examples. The author tests both successful and failing runs and highlights that service principal support is now available.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:53.212256+00:00"
+  },
+  "01kjezhyg6fqqczywt1n54mmsk": {
+    "title": "Automating Power BI Data Quality Checks with Great Expectations & SemPy",
+    "ai": {
+      "summary": "Data models and data quality are never simple in the enterprise. Our Power BI semantic models combine large fact tables, multiple aggregates, and complex refresh logic.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:53.337303+00:00"
+  },
+  "01kjezgxssnsjjrcb7vnkje6z6": {
+    "title": "Understand Direct Lake query performance - Microsoft Fabric",
+    "ai": {
+      "summary": "Learn how Direct Lake query performance depends on Delta table health and efficient data updates. Understand the importance of V-Order optimization, row groups, and Delta log management for optimal query execution.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:53.462239+00:00"
+  },
+  "01kjezgcg832bxhgfpnjxrft9f": {
+    "title": "Tom Baeyens\u2019 Post",
+    "ai": {
+      "summary": "Data contracts is Governance packaged as Data Engineering.\n\nTraditional governance has struggled in data teams.\n\nPolicies are often written in documents that engineers rarely read, and enforcement depends on manual reviews.\n\nData engineers always see it as extra paper work.\n\nData contract is a formal agreement that specifies the schema, semantics, and expectations from a dataset. It defines what fields exist, their data types, update frequency, and quality thresholds. This is governance.\n\nIt is enforced through code. It validates data deployment, and monitors production datasets. This is engineering.\n\nLeaders get direct value on building contracts is because they close the gap between policy and implementation.\n\nProducers and consumers operate on the same definition of what good data means.\n\nManual governance would simply never scale the way data contracts do.\n\nLearn more here: https://lnkd.in/g8GMWCUf | 22 comments on LinkedIn",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:53.575200+00:00"
+  },
+  "01kjezfqrat0e21k49fyvmrhhx": {
+    "title": "Luis Lopez-Pons\u2019 Post",
+    "ai": {
+      "summary": "\ud83d\udcb0 You don't have budget for #AzureDatabricks, #AzureSynapse or a big #MicrosoftFabric Capacity?\nTurns out, you might not need them.\nIf you're small, you can replace an average analytics stack with #AzureFunctions + DuckDB.\n\n\ud83d\udcca Case: 8-minute daily pipeline that costs $3/month.\nNo Databricks. No Synapse. No always-on databases.\n\u2014\n\ud83d\udee0\ufe0f The Stack:\n\u2192 \u26a1 Azure Functions (Consumption Plan) \u2192 \ud83e\udd86 DuckDB embedded in Python \u2192 \ud83d\udce6 Parquet files on Blob Storage \u2192 \ud83d\udcc8 Power BI for visualization\n\u2014\n\u2699\ufe0f The Flow:\n\u23f0 Timer trigger fires at night\n\ud83d\udcc2 DuckDB reads Parquet directly from Blob Storage (no copying!)\n\ud83e\udde0 SQL transformations run in-memory\n\ud83d\udcbe Results written back as Parquet\n\ud83d\udcca Power BI queries the output\n\u2014\n\u2728 Why This Actually Works:\nDuckDB has native Azure Blob support. It queries #Parquet at 1GB/second per core. No infrastructure to manage. No state between runs.\nThe same SQL that runs in production runs on your laptop with sample data.\n\u2014\n\ud83d\udcc8 Real Performance Numbers:\n5GB of order data\nComplex joins + aggregations\n\u23f1\ufe0f 2.5 minutes on a single Azure Function\n\ud83d\udcb5 $3/month total cost\n\u2014\n\ud83d\udca1 The Insight:\nEnterprise data tools are amazing, but there\u2019s no one-size-fits-all solution.\nIf you're processing GB (not TB), running batch analytics (not real-time), and need OLAP (not OLTP), you might be over-engineering.\nSometimes a $3 solution beats a $3,000 solution.\n\u2014\n\ud83c\udfaf Who is this for?\n\u2713 \ud83d\ude80 Startups watching every euro \u2713 \ud83d\udc65 Small data teams without platform engineers \u2713 \ud83d\udcc1 Companies with data in files already \u2713 \ud83d\ude24 Anyone tired of infrastructure overhead\n\nIs your data stack simpler or more complex than it needs to be? \ud83d\udcad\n\n#DataEngineering #Azure #DuckDB #CostOptimization #Serverless #AzureFunctions #DataAnalytics #BatchAnalytics | 11 comments on LinkedIn",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:53.689414+00:00"
+  },
+  "01kjezeajzne0nsxxgh2cyt16r": {
+    "title": "Microsoft Fabric supports Managed Private Endpoints for secure data access",
+    "ai": {
+      "summary": "Microsoft Fabric now supports Managed Private Endpoints\u2014enabling secure, governed connectivity from Spark workloads to on-premises and network-isolated data sources.\n\nWhat it enables:  \n- Establish private connectivity from Fabric workspaces to SQL Server, ADLS, and other restricted resources  \n- Avoid public internet exposure by allowlisting Fully Qualified Domain Names (FQDNs) via Private Link Service  \n- Trigger admin approval workflows for endpoint creation and governance  \n- Use native Spark engine for high-performance processing on secured datasets  \n- Configure and monitor connections via Fabric Public REST APIs\n\nWhy it matters:  \n- Eliminates need for VPNs or gateways in hybrid architectures  \n- Strengthens enterprise security posture with domain-level access control  \n- Simplifies ingestion and analytics across regulated environments  \n- Enables scalable, compliant data engineering workflows\n\nHow to get started:  \n- Identify your Private Link Service resource ID  \n- Create a Managed Private Endpoint using Fabric APIs  \n- Add target FQDNs and request admin approval  \n- Verify domain mappings and begin Spark-based processing\n\nDetails on the blog: https://lnkd.in/gy98xECs \n\n#MicrosoftFabric #PrivateLink #ManagedPrivateEndpoint #MSFTAdvocate\n",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:53.804253+00:00"
+  },
+  "01kjezbvkjm69sx61rbqdz73ab": {
+    "title": "Sandeep Pawar\u2019s Post",
+    "ai": {
+      "summary": "If you want to learn how #DataAgent in #MicrosoftFabric work and need a hands-on, step-by-step guide, my colleagues Markus Cozowicz Shreyas C. have an awesome repo. Be sure to give it a \u2b50.\n\nMore coming soon...\n\n\ud83d\udccchttps://lnkd.in/gMWgyWtj\n\ud83d\udccchttps://lnkd.in/gDQv8zMy",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:53.938754+00:00"
+  },
+  "01kjezb58w4t2nyma7tam9t4ak": {
+    "title": "Achraf C.\u2019s Post",
+    "ai": {
+      "summary": "\ud83c\udf89\ud83c\udf89 The Onelake duckdb extension is now available as a community extension: https://lnkd.in/eWbW823Q\n\nCurrent functionalities :\n\u2705 Authentication via azure CLI, managed identity and Fabric workspace identity.\n\u2705 Attach to any Lakehouse \n\u2705 Use the Lakehouse schemas as DuckDB schemas \n\u2705 Read Delta and Iceberg tables\n\nThanks Mimoune Djouallah for the feature ideas,  Sam Ansmink and Carlo Piovesan for the quick help in getting the extension merged. | 13 comments on LinkedIn",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:54.051579+00:00"
+  },
+  "01kjezargyh3bsenmh90rga5rt": {
+    "title": "Kafka + DuckDB benchmarks: 50M messages in 11.62s",
+    "ai": {
+      "summary": "I've been deep in \ud835\uddde\ud835\uddee\ud835\uddf3\ud835\uddf8\ud835\uddee + \ud835\uddd7\ud835\ude02\ud835\uddf0\ud835\uddf8\ud835\uddd7\ud835\uddd5 development the past few weeks, but here are some late-night benchmarks from my couch \ud83d\udecb\ufe0f:\n\n\ud83c\udd95 Created a Kafka topic with 8 partitions on my M3 MacBook Air (one per core)\n\u26a1 Inserted 50M messages from DuckDB (47 bytes each) in 11.62s (\ud835\udff0.\ud835\udfef \ud835\uddfa\ud835\uddf6\ud835\uddf9\ud835\uddf9\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddfa\ud835\ude00\ud835\uddf4\ud835\ude00/\ud835\ude00\ud835\uddf2\ud835\uddf0)\n\ud83d\udc40 Scanned those messages directly from Kafka in DuckDB in 17.54s (\ud835\udfee.\ud835\udff4\ud835\udff1 \ud835\uddfa\ud835\uddf6\ud835\uddf9\ud835\uddf9\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddfa\ud835\ude00\ud835\uddf4\ud835\ude00/\ud835\ude00\ud835\uddf2\ud835\uddf0)\n\ud83d\udc24 Inserted them into a local DuckDB table in 29.63s (\ud835\udfed.\ud835\udff2\ud835\udff5 \ud835\uddfa\ud835\uddf6\ud835\uddf9\ud835\uddf9\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddfa\ud835\ude00\ud835\uddf4\ud835\ude00/\ud835\ude00\ud835\uddf2\ud835\uddf0)\n\nMore CPU cores and more Kafka partitions make it even faster.\n\nA lot of this speed comes from DuckDB's ability to facilitate zero-data-copy with the Kafka client library \u2014 no need to copy messages around instead just attach them to DuckDB vectors as auxiliary data.\n\n\ud83d\udc24 \ud835\uddd7\ud835\ude02\ud835\uddf0\ud835\uddf8\ud835\uddd7\ud835\uddd5 + \ud835\uddde\ud835\uddee\ud835\uddf3\ud835\uddf8\ud835\uddee \ud835\uddf6\ud835\ude00 \ud835\uddf3\ud835\uddee\ud835\ude00\ud835\ude01 \ud83d\ude80 \u2014 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\ude00 \ud835\uddf6\ud835\ude00 \ud835\uddf7\ud835\ude02\ud835\ude00\ud835\ude01 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddef\ud835\uddf2\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4!\n\nNext up: benchmarking Avro, Protobuf, and JSON Schema registry support. The code is written \u2014 it's been quite the adventure.\n\n\ud835\udde7\ud835\uddf5\ud835\uddf6\ud835\ude00 \ud835\ude04\ud835\uddf6\ud835\uddf9\ud835\uddf9 \ud835\uddef\ud835\uddf2 \ud835\udde4\ud835\ude02\ud835\uddf2\ud835\uddff\ud835\ude06.\ud835\uddd9\ud835\uddee\ud835\uddff\ud835\uddfa'\ud835\ude00 \ud835\uddf3\ud835\uddf6\ud835\uddff\ud835\ude00\ud835\ude01 \ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddfa\ud835\uddf2\ud835\uddff\ud835\uddf0\ud835\uddf6\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\ude06 \ud835\uddf9\ud835\uddf6\ud835\uddf0\ud835\uddf2\ud835\uddfb\ud835\ude00\ud835\uddf2\ud835\uddf1 \ud835\uddd7\ud835\ude02\ud835\uddf0\ud835\uddf8\ud835\uddd7\ud835\uddd5 \ud835\uddf2\ud835\ude05\ud835\ude01\ud835\uddf2\ud835\uddfb\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb.\u00a0The new website is launching soon.  \n\nhttps://query.farm - Meet with us to get a demo.\n\n#DuckDB #Kafka #DuckDBExtension #Tributary #Streaming #SQL #StreamingSQL #MaterializedViews | 35 comments on LinkedIn",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:54.182651+00:00"
+  },
+  "01kjez9e5yknxdm3vkxna6xxpx": {
+    "title": "David Kofod Hanna\u2019s Post",
+    "ai": {
+      "summary": "Is it just hype?\nCan't we just script it?\nHow to get started with Power BI Modeling MCP Server?\nWhat does it cost?\nCan't I just use Tabular Editor?\nWhat is MCP?\nDo we need source control?\n\nI have tried to break it down for you in this article\n\nEnjoy and have fun \u2728 | 18 comments on LinkedIn",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:54.354988+00:00"
+  },
+  "01kjez91k30z4e686hz9ynd4cg": {
+    "title": "Dennes Torres\u2019 Post",
+    "ai": {
+      "summary": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Fabric Monday Highlights: Translytical Taskflow \ud83d\udd25\ud83d\udd25\ud83d\udd25\n\nIn this playlist, I showcase the Translytical TaskFlow architecture in Microsoft Fabric using a simple example: a system to capture annotations over the data and save them directly in Fabric.\n\nBut that\u2019s just one way to use it. This architecture lets you connect user interactions directly to the platform, enabling actions like:\n\n\ud83c\udd95 Refresh the semantic model from a report \u2014 a long-awaited capability\n \ud83c\udfaf Adjust KPI targets dynamically\n \u26a1 \u2026and many other data-driven operations\n\nTranslytical TaskFlows make it possible to turn insights into actions instantly, without leaving the Fabric environment.\n\n\ud83d\udd17 Link of the playlist in the comments\n\nCurious: which scenario would you use it for first?\n\n\ud83d\udc49\u00a0Fabric Monday 75: What's Translytical Taskflow\n\n\ud83d\udc49\u00a0Fabric Monday 76: Creating User Data Functions",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:54.506717+00:00"
+  },
+  "01kjez7ftxz0s7nawx136aakhp": {
+    "title": "Dennes Torres\u2019 Post",
+    "ai": {
+      "summary": "\ud83c\udfac\u2728 Mastering Shortcuts in Fabric\n\nEver felt like your Fabric workspace has shortcuts that\u2026 mysteriously stop working?\n\n \nOr worse \u2014 shortcuts pointing to things that don\u2019t even exist anymore?\nIn this video I walk through a simple way to stay in control of your shortcut ecosystem.\n\n\u2728 Here\u2019s what you\u2019ll find inside:\n\ud83d\udc49 How to quickly surface shortcuts that need attention\n \ud83d\udc49 A practical trick to spot broken ones using code\n \ud83d\udc49 And a small insight that can save you from hours of guesswork\n\nIf shortcuts are part of your daily flow, this one will make your life much easier.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:54.623063+00:00"
+  },
+  "01kjez6mqm0vm45tzqfx7ddntc": {
+    "title": "Sandeep Pawar\u2019s Post",
+    "ai": {
+      "summary": "\ud83d\udca1Did you know you can programmatically test, validate and improve your #MicrosoftFabric #DataAgent using a Python SDK? You can do that in Fabric notebook or use the external client in any IDE outside of Fabric too !  You can also inspect the diagnostic log to identify if you need to improve the instructions, add/tune few-shots etc...\n\n\ud83d\udcd1Docs: https://lnkd.in/giCFUpHW\n\n\ud83d\udee0\ufe0fEval Notebooks : https://lnkd.in/d3juqS97\n\n\ud83d\udcccExternal client : https://lnkd.in/gTMWdBu6\n\n\ud83d\udc49Follow these best practices : https://lnkd.in/gNy6u58Z\n\nGive it a try and if you have any feedback, send it my way.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:54.960071+00:00"
+  },
+  "01kjez5s7m131j6y8ax0s595ps": {
+    "title": "Diego Nolleau\u2019s Post",
+    "ai": {
+      "summary": "\ud83d\ude80 Nouvelle fonctionnalit\u00e9 Power BI (mise \u00e0 jour de novembre) : int\u00e9gration d\u2019un serveur MCP (Model Context Protocol)\n\nQu\u2019est-ce qu\u2019un MCP ?\n\nIl s\u2019agit d\u2019un protocole standard qui permet \u00e0 un mod\u00e8le d\u2019IA de se connecter de mani\u00e8re s\u00e9curis\u00e9e et structur\u00e9e \u00e0 des outils et \u00e0 des sources de donn\u00e9es externes, comme Power BI.\n\n\ud83d\udc49 Concr\u00e8tement, cela permet d\u2019interagir avec votre mod\u00e8le Power BI en langage naturel et m\u00eame de modifier sa structure via l\u2019IA.\n\n\u2705 Comment l\u2019utiliser avec Power BI :\n\n1. T\u00e9l\u00e9charger VS Code  \n2. Installer les extensions suivantes :\n   - GitHub Chat  \n   - GitHub Copilot  \n   - Power BI MCP Server  \n3. Ouvrir votre rapport Power BI Desktop  \n4. Sur VS Code, lancer une conversation avec l\u2019IA en mode \u00ab Agent \u00bb en activant le MCP dans les outils (pour acc\u00e9der aux outils, cliquez sur l\u2019ic\u00f4ne pr\u00e9sente dans la 4\u00e8me capture d\u2019\u00e9cran \u00e0 droite de \u00ab\u00a0Claude Ha\u00efku\u00a0\u00bb\n5. Cr\u00e9er la connexion en \u00e9crivant :\n   \"Connect to '[File Name]' in Power BI Desktop\"\n6. Une fois connect\u00e9, utiliser l\u2019agent IA pour :\n   - cr\u00e9er des mesures\n   - cr\u00e9er des colonnes calcul\u00e9es\n   - cr\u00e9er des tables\n   - modifier le mod\u00e8le\n\nOn passe d\u2019un travail purement technique (DAX / mod\u00e9lisation) \u00e0 une interaction directe en langage naturel avec son mod\u00e8le de donn\u00e9es.\n\n\ud83d\udea8 Cette fonctionnalit\u00e9 est en pr\u00e9version, faites un doublon de votre fichier avant de commencer \u00e0 tester ses capacit\u00e9s afin d\u2019\u00e9viter les mauvaises surprises \ud83d\ude09\n\n#PowerBI #Data #IA",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:55.075474+00:00"
+  },
+  "01kjez52m1rbba739ymc3ex2wy": {
+    "title": "Charlotte Ledoux\u2019s Post",
+    "ai": {
+      "summary": "Despite everything we hope AI will assist and automate, no technology alone will populate and maintain the catalog.\n\nRoles that matter :\n\n\ud83d\udc54 Data Owner (business):\u00a0accountable for definitions, SLAs and business acceptance. This is the person who signs off when the glossary term changes.\n\n\ud83e\uddd1\u200d\ud83d\udd27 Data Steward (domain):\u00a0maintains metadata, manages reviews, and orchestrates fixes with producers. Stewards also mediate disputes about definitions or quality.\n\n\u2699\ufe0f Data Producer (engineering):\u00a0implements schema changes, publishes lineage and raises change requests into the catalog pipeline.\n\n\ud83d\udd0d Data Consumer (analyst/product):\u00a0provides feedback, reports issues, and validates the catalog entries against business use.\n\nRead more in the article by Peter Baumann explaining how to get value from metadata thanks to a Data Catalog :\n\nhttps://lnkd.in/dW3FHV_w | 14 comments on LinkedIn",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:55.222441+00:00"
+  },
+  "01kjez4rmxxwtr24v1v7hz22he": {
+    "title": "How to build an AI agent in Fabric and Foundry to leverage your business data",
+    "ai": {
+      "summary": "If you have been waiting for a step\u2011by\u2011step tutorial to make an AI agent that \u201cspeaks\u201d the language of your business data, this guide is for you. In this article I will show you how to: (1) build a Fabric Data Agent over your Fabric Lakehouse and (2) connect that agent to Microsoft Foundry to enable extended agent capabilities.\n\nIf you have any questions, please feel free to contact me! \n\n#Fabric, #FabricDataAgent, #Foundry, #PwC",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:55.345544+00:00"
+  },
+  "01kjez483zbr75a8ky4y4dm8c6": {
+    "title": "Microsoft Fabric IQ: Solving Ontology Issues for AI-Ready Data",
+    "ai": {
+      "summary": "\u201cMost organisations don\u2019t struggle with AI readiness because of tools\u2026 they struggle because their data has no shared language.\u201d\n\nOver the past year, I\u2019ve spoken with CIOs, CDOs, and Data Leaders across the GCC and Europe and the pattern is the same every time.\n\nTeams are investing heavily in Microsoft Fabric, AI Agents, and LLMs\u2026\nbut relationships across the data estate are still fragmented.\n\nAnd without shared meaning \u2014\nAI can\u2019t reason, predict, or trust your data.\n\nHere\u2019s what leaders tell me repeatedly:\n\n\u201cOur semantic models don\u2019t scale across domains.\u201d\n\n\u201cAI gives inconsistent answers because context isn\u2019t unified.\u201d\n\n\u201cWe can\u2019t connect real-time and historical data cleanly.\u201d\n\n\u201cEverything feels fast\u2026 but not aligned.\u201d\n\nIt\u2019s never a tooling issue.\nIt\u2019s an ontology issue \u2014 a clarity issue.\n\nThat\u2019s why I created this cheatsheet for Fabric IQ, Microsoft\u2019s ontology layer for AI-ready data.\nBecause when organisations shift from tables to entities + relationships, everything changes:\n\nAI Agents reason with business context\nCross-domain data becomes unified\nReal-time + historical insights become consistent\nGovernance improves automatically\nYour Microsoft Fabric estate becomes \u201cAI-ready\u201d instead of \u201cAI-hopeful\u201d\n\nThis is the difference between\nAI that answers and AI you can actually trust.\n\nIf you want to understand how to apply Fabric IQ to your own Microsoft estate \u2014 and avoid the common mistakes that break AI outcomes I\u2019ve opened a few early access slots this week.\n\n\ud83d\udccc Comment \u201cFABRIC IQ\u201d below\nand I\u2019ll share the full implementation framework we use with clients across UAE, KSA, Qatar & Europe, including governance, design steps, and real case examples.\n\nBecause AI success doesn\u2019t start with models.\nIt starts with meaning.\n\n\u2014 Leon Gordon\nMicrosoft MVP\n\n#MicrosoftFabric #DataGovernance #AIReadyData #Ontology #FabricIQ #EnterpriseAI #MicrosoftPartner | 91 comments on LinkedIn",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:55.460048+00:00"
+  },
+  "01kjez2b3j6ck55fqx8ft3rcbf": {
+    "title": "Adrian Chodkowski\u2019s Post",
+    "ai": {
+      "summary": "Did you know that neglecting Delta table maintenance in many Fabric implementations leads to excessive costs and degraded performance?\n\nManual tuning of target file sizes can be complex, but Microsoft Fabric simplifies this with Adaptive Target File Size - a smart feature that automatically estimates and adjusts the ideal Parquet file size based on table heuristics, eliminating the need for ongoing manual intervention.\n\nKey benefits:\n\u2022 Starts at 128 MB for small tables (<10 GB) and scales linearly up to 1 GB for tables >10 TB\n\u2022 Enhances Delta file skipping\n\u2022 Reduces costs for MERGE/UPDATE operations\n\u2022 Optimizes Spark task parallelism for better read/write throughput\n\u2022 Can improve compaction performance sometimes by 30\u201360%\n\nEnable it easily in your Spark session:\nSET spark.microsoft.delta.targetFileSize.adaptive.enabled = TRUE\n\nIt auto-evaluates during CTAS, overwrites, new table creates, and every OPTIMIZE command. Override when needed with the explicit delta.targetFileSize property.\nHighly recommended, especially as your data grows!\n\n#MicrosoftFabric #DeltaLake #Spark #DataEngineering #Lakehouse",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:55.581204+00:00"
+  },
+  "01kjez19yhzvgs28gc0vtzxs32": {
+    "title": "SQL Telemetry & Intelligence \u2013 How we built a Petabyte-scale Data Platform with Fabric",
+    "ai": {
+      "summary": "Microsoft Fabric built a huge data platform using tools like OpenTelemetry, Azure Data Explorer, and Spark Streaming to handle petabytes of data quickly and reliably. They use smart data models like Kimball SCD2 and DirectLake for accuracy and fast queries. Developers work easily with a special VSCode setup that matches the platform\u2019s complex environment.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:55.696537+00:00"
+  },
+  "01kjeyyjnhx9vvptsk9p7mezck": {
+    "title": "Explaining the 10, 60 and 1440 minute throttling limits- Part 1: What is throttling and how do I identify it?",
+    "ai": {
+      "summary": "In this three-part article series, I will look at how throttling is applied in Fabric capacities. A while ago I wrote this article, which explained smoothing; with this series, I aim to expand the explanation with a new analogy, illustrated by practical examples.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:55.829364+00:00"
+  },
+  "01kjeyvpmc9md0qngwbx7g1397": {
+    "title": "Sandeep Pawar\u2019s Post",
+    "ai": {
+      "summary": "\ud83d\udce2#MicrosoftFabric #DataAgent ending the year with a bang \ud83d\udca5\n\nData Agent MCP server is now available !!! You can add the MCP server to VS Code (or an external app) and interact with the data. Be sure to provide a clear and comprehensive description of the agent when publishing to invoke the right agent as a tool.\n\nCongratulations to the team !!! \n\n\u27282026 is going to be the year of Data Agent, more to come.\n\n\ud83d\udcccDocs: https://lnkd.in/gYcKAYkJ\n\nAs always, if you have feedback let us know. | 11 comments on LinkedIn",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:55.956572+00:00"
+  },
+  "01kjeytf0q2t8w2pq0kg3d1mn3": {
+    "title": "Optimizing Delta Tables in the Silver Layer",
+    "ai": {
+      "summary": "Congrats you\u2019ve built your first medallion architecture. Good news is you\u2019ve finally gotten through all the business lines of questions, validation, and intense engineering workloads. The issue is now your processes are slowly getting slower and slow...",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:56.067919+00:00"
+  },
+  "01kjeyskmewcj74p9cpjkk6cpy": {
+    "title": "Christopher Schmidt\u2019s Post",
+    "ai": {
+      "summary": "Over the past few months, I\u2019ve spent a lot of time thinking about a deceptively simple question:\n\nHow do architectural choices for real-time ingestion in Microsoft Fabric actually impact CU consumption and latency?\n\nThis edition of the #realtimedispatch is the result of finally taking the time to test that question in a structured, data-driven way.\n\nUsing the NYC Yellow Taxi dataset (May 2025), I evaluated two common real-time ingestion architectures in Fabric:\n\nEvent Hub \u2192 #Eventstream \u2192 Eventhouse (RTI)\nEvent Hub \u2192 #SparkStructuredStreaming \u2192 Silver Table\n\nThe goal was not to declare a universal \u201cwinner,\u201d but to provide an objective comparison of:\nCU consumption behavior over time\nEnd-to-end latency\nHow each approach scales as volume increases\nWhat these patterns imply for real-world capacity planning\nTo keep the results realistic, all data was generated externally (outside Fabric), transformations were applied in flight, and measurements were scoped strictly to ingestion and transformation costs.\n\nWhat this edition covers:\nHow RTI services (Eventstream + Eventhouse) consume CU in a steady, pay-as-you-go pattern\nWhy Spark Structured Streaming can appear efficient at low volume but becomes increasingly expensive and bursty at scale\nHow notebook CU consumption is time-bucketed, and why that can distort perceived cost\nWhy volume (bytes), not row count, is the key driver for RTI CU usage\nPractical guidance for forecasting Fabric capacity as streaming workloads grow\nKey takeaway\nAs streaming volume increases, architectural decisions matter more than tooling familiarity. RTI workloads in Fabric scale more predictably and cost-effectively with volume, while Spark-based approaches can introduce CU spikes, back-pressure, and throttling at higher throughput.\nIf you are designing or operating real-time ingestion pipelines in Fabric\u2014or trying to forecast capacity before going to production\u2014this edition is intended to give you concrete data points to support those decisions...",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:56.179890+00:00"
+  },
+  "01kjeys989vxnknr0x8v6npbbt": {
+    "title": "Vibe Optimizing Power BI",
+    "ai": {
+      "summary": "\ud83d\ude80 Vibe Optimizing Power BI \u2013 Are Your Report and Model Fast Enough and optimized?\n\nSlow Reports kill the vibe. Discover how to boost performance & user experience with a new tool from Microsoft Fabric Toolbox: DAX Performance Tuner MCP Server.\n\u2705 Real-world demo\n\u2705 Before/After optimization\n\u2705 Tips for tuning your Power BI reports\n\n\ud83d\udc49 Read the full article and see how MCP can transform your Report\n\n#PowerBI #MicrosoftFabric #DAXOptimization #FinOps #DataAnalytics",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:56.300926+00:00"
+  },
+  "01kjeys0wes4dpaffd4fppmx92": {
+    "title": "Charlotte Ledoux\u2019s Post",
+    "ai": {
+      "summary": "\ud83d\udfe1 Metadata is the common language for all teams.\n\nMetadata is not a technical layer, but context that travels with data. \nIt connects meaning across systems, teams, and repositories.\n\nWe need a shared understanding of business processes and pains across units and departments. Everyone, from data engineers to business leaders, should start using the same words to describe the same things : domain, owner, data product, and source.\n\nThank you Ga\u00eblle SERET for this great article !\n\nhttps://lnkd.in/dEnQBMiB | 14 comments on LinkedIn",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:56.410589+00:00"
+  },
+  "01kjeyrbw1m4bnacdcjgd9pd2s": {
+    "title": "Microsoft Purview Unified Catalog: Deploys in Minutes, Transform in Years (And Why That\u2019s Actually Good News)",
+    "ai": {
+      "summary": "Microsoft Purview deploys in minutes. A few clicks in the Azure & Microsoft Purview portal, some resource configurations, a deployment\u2026",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:56.520851+00:00"
+  },
+  "01kjeyqf2jacgbwv51dy36zm5h": {
+    "title": "Developing with OneLake on Desktop and Deploying to Microsoft Fabric",
+    "ai": {
+      "summary": "Sharing my own workflow in the hope it may be useful: how I develop locally on my desktop and deploy to #MicrosoftFabric using #VSCode, #Copilot, and #PowerBI #Desktop.\n\nThe key idea is that OneLake can be accessed from anywhere.\n\nBusiness logic should ideally live in SQL and Python scripts, not be embedded in notebooks. Notebooks are great for orchestration and exploration, but they should stay thin.\n\nAlways use ABFSS paths and avoid coupling your Lakehouse to a specific notebook. This keeps your architecture portable and easier to move to other workspace\n\nAI is changing our daily workflow and that's great !!\n\n#DuckDB #DeltaTable #sql #python #duckdb #polars #onelake \n\nhttps://lnkd.in/gz-QFEMk",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:56.633656+00:00"
+  },
+  "01kjeyj2jhnbt0s6dnb3fvm97f": {
+    "title": "Jean Hayes\u2019 Post",
+    "ai": {
+      "summary": "Happy New Year Everybody!\nOver the past year, I\u2019ve helped many customers optimize their Microsoft Fabric environments\u2014and surprisingly, a large number of issues came down to capacity and workspace design. Noisy neighbors, throttling, scaling up vs. scaling out\u2026 you name it.\nTo help you get ahead of these challenges, I wrote an article on capacity and workspace design:  https://lnkd.in/gYB9JQ4x \n\nI\u2019ve also included a downloadable Fabric Capacity & Workspace Discovery process to help you design the optimal environment that fits your organization\u2019s needs. I hope you find it valuable!\n\nSpecial thanks to Holly Kelly for all the work she has done in this space! \n\n#microsoftfabric #fabric #FSKU #Microsoft #workspace #capacity #optimization",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:56.747560+00:00"
+  },
+  "01kjeyh1ax7xa2sgaqawszhmzs": {
+    "title": "Yassine Mahboub\u2019s Post",
+    "ai": {
+      "summary": "\ud83d\udccc How to Gather Dashboard Requirements\n\n(Requirements Gathering 101)\n\nThe success of a Data or BI project doesn\u2019t start with the tool you pick or the stack you deploy.\n\nIt starts earlier.\n\nIt starts with something less exciting, but far more important: gathering clear business requirements.\n\nAnd yet, this is the step that gets skipped the most.\n\nEveryone wants to talk about architecture, pipelines, medallion layers, AI copilots\u2026\n\nBut if you don\u2019t know what the business actually needs, none of that matters.\n\nSo what does \"gathering requirements\" actually look like?\n\nIt means sitting down with stakeholders and asking questions that sound simple on the surface, but change everything:\n\n\u2937 What decisions are you struggling to make today?\n\u2937 Where does data slow you down or create confusion?\n\u2937 Which KPIs, if you had them right now, would change how you run the business?\n\nThese conversations are rarely neat.\n\nYou\u2019ll hear conflicting priorities, vague goals, and sometimes even silence.\n\nThat\u2019s normal. The job is to cut through the noise and translate it into something concrete.\n\nWhen you do that, everything else falls into place:\n\n1) Data engineers know exactly which sources to prioritize.\n\n2) Data Analysts stop debating vanity metrics and focus on useful KPIs.\n\n3) Leaders understand what to expect once dashboards go live.\n\nAnd here\u2019s what often gets overlooked: requirement gathering isn\u2019t just about listing KPIs.\n\nIt\u2019s here to map business decisions to data, spot workflow bottlenecks, align with strategy, and create a shared language across business and technical teams.\n\nIt\u2019s where you discover that the sales team and the finance team define \"revenue\" differently.\n\nIt\u2019s where you realize that a monthly report isn\u2019t enough, and what the business really needs is daily visibility.\n\nIt\u2019s where you uncover that the pain point isn\u2019t the dashboard at all, but the manual process feeding it.\n\nData platforms and BI tools will keep changing.\n\nSnowflake, Databricks, Fabric, Big Query...",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:56.859368+00:00"
+  },
+  "01kjeygssfpx9xx0qc00pjpv8x": {
+    "title": "Yassine Mahboub\u2019s Post",
+    "ai": {
+      "summary": "\ud83d\udccc MS Fabric Breakdown # 15: User Data Functions\n\nOne of my favorite features released last year in Fabric is User Data Functions (UDFs).\n\nThink of it like an Azure Function built directly into Fabric. It allows you to host and run your own custom code that can be used by different workloads across your data platform.\n\nTo put it simply: UDFs allow you to bring your own \"serverless\" logic to Fabric.\n\nAnd there are massive benefits to this approach:\n\n1\ufe0f\u20e3 \ud835\udc11\ud835\udc1e\ud835\udc1a\ud835\udc1d\ud835\udc1a\ud835\udc1b\ud835\udc22\ud835\udc25\ud835\udc22\ud835\udc2d\ud835\udc32\n\nBuild a function once and reuse it across 50+ notebooks or pipelines without duplicating code.\n\n2\ufe0f\u20e3 \ud835\udc02\ud835\udc2e\ud835\udc2c\ud835\udc2d\ud835\udc28\ud835\udc26\ud835\udc22\ud835\udc33\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\n\nIt\u2019s just Python so you have the freedom to build whatever complex logic you need without being restricted by standard low-code activities.\n\n3\ufe0f\u20e3 \ud835\udc16\ud835\udc28\ud835\udc2b\ud835\udc24\ud835\udc1f\ud835\udc25\ud835\udc28\ud835\udc30 \ud835\udc12\ud835\udc22\ud835\udc26\ud835\udc29\ud835\udc25\ud835\udc22\ud835\udc1f\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\n\nYou can encapsulate complex logic that would normally require a lot of Logic Apps or Power Automate flows.\n\n4\ufe0f\u20e3 \ud835\udc11\ud835\udc04\ud835\udc12\ud835\udc13 \ud835\udc04\ud835\udc27\ud835\udc1d\ud835\udc29\ud835\udc28\ud835\udc22\ud835\udc27\ud835\udc2d\n\nYou can invoke your functions from external applications and simplify your integration strategy.\n\nThis opens up a world of use cases when working with Data Factory or Notebooks and I\u2019ve found some patterns very useful like:\n\n\u2192 Custom pre/post-processing logic for pipelines\n\u2192 Notification utilities (Slack, Teams, email formatting)\n\u2192 Metadata-driven routing and branching logic\n\u2192 Reusable enrichment or normalization functions\n\nIn the featured screenshot for example, I built a Slack notification function with advanced formatting for pipeline runs.\n\nIt\u2019s a simple workflow but you can take it much further like adding intelligent error summaries and generating debugging hints\n\nYou can even plug in LLM APIs (ex: Claude or Gemini) to suggest root causes or next steps directly in the notification.\n\nOne thing to keep in mind though is that UDF connections are limited to Fabric\u2019s internal items (Lakehouse, SQL Database, etc.).\n\nExternal connectivity is still constrained but hopefully this expands over time. External APIs are a great alternative for this.\n\nStill, if you\u2019re building serious solutions in Fabric, U...",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:56.977531+00:00"
+  },
+  "01kjeygfm9qaf8js3mv25025hn": {
+    "title": "Harsha Guggilla\u2019s Post",
+    "ai": {
+      "summary": "Optimize Write\u00a0in Microsoft Fabric Spark \n\nIn the previous posts, we talked about table Delta table layout(file count + file sizes + partition shape) and we discussed that this layout matters because Spark has to plan work and reason about metadata before it can touch our data.\n \nSo when teams ask \u201cwhy did this table got slower even though my query did not change?\u201d most often the answer is because the spark writes kept producing small files and so the table layout kept getting more fragmented and that\u2019s why planning and maintenance costs unfortunately creep up over time.\n\nNow here the important thing is:\nEven if we have a good target file size in mind, we still need a mechanism that influences what happens during the write, because if our pipeline keeps emitting lots of tiny output files, then we are basically creating future OPTIMIZE / compaction work for ourselves. And that is exactly what Optimize Write is designed to reduce.\n\nWhat Optimize Write actually does\nMicrosoft describes Optimize Write as pre-write compaction (bin packing), because it means that Spark tries to bundle in-memory data into optimally sized bins before writing Parquet files, so you get fewer, larger files without needing immediate post-write cleanup. \n\nAnd because that bin packing often requires shuffling data, so it can add some compute cost, but it can still be a win because it is often cheaper to avoid creating thousands of tiny files than it is to rewrite them later via post-write compaction.\n\nWhy to use it for partitioned tables\nOptimize Write is normally super useful for partitioned tables and the reason is when we write into partitions, multiple tasks can end up writing separate output files into the same partition path and so file counts per partition can explode quickly, especially with micro-batches. \n\nBut it can still matter for non-partitioned tables, because small files can also happen there if you write with a lot of parallelism..So, it \"might be\" beneficial when the write wo...",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:57.095972+00:00"
+  },
+  "01kjeyfx3x5w38jcjeh3m7qq3f": {
+    "title": "LinkedIn",
+    "ai": {
+      "summary": "500 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:57.213743+00:00"
+  },
+  "01kjeyfgk1zkk7tvzr03ejmvvh": {
+    "title": "Stefano Pescosolido\u2019s Post",
+    "ai": {
+      "summary": "A new technology doesn\u2019t really exist until \ud835\ude11\ud835\ude30\ud835\ude29\ud835\ude2f has explained it \u2014 at least in my opinion... \ud83d\ude05 \n\ud83c\udfa5 \ud835\udc03\ud835\udc1e\ud835\udc1e\ud835\udc29 \ud835\udc03\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc22\ud835\udc27\ud835\udc2d\ud835\udc28 \ud835\udc05\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc1d\ud835\udc2b\ud835\udc32 \ud835\udc08\ud835\udc10: https://lnkd.in/dPYUDZgE\n\n#MicrosoftFoundry \nJohn Savill",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:57.332115+00:00"
+  },
+  "01kjeyek9pf71wmhnasc1h6hmx": {
+    "title": "Vladimir Gribanov\u2019s Post",
+    "ai": {
+      "summary": "Vladimir Gribanov released a new DuckDB extension for fast, direct data loading into SQL Server without ODBC. It supports full data operations and can load over a million rows per second. This tool improves performance and simplifies data engineering.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:57.445941+00:00"
+  },
+  "01kjeyeb1nqtshggw0kv6h9dp3": {
+    "title": "https://www.linkedin.com/feed/update/urn:li:article:7789579232378486340?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aarticle%3A7789579232378486340%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+    "ai": {
+      "summary": "Summary not available.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:57.684688+00:00"
+  },
+  "01kjeye0eq4amhp59ejgk6tp0w": {
+    "title": "https://www.linkedin.com/feed/update/urn:li:article:9128354385763810451?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aarticle%3A9128354385763810451%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+    "ai": {
+      "summary": "Summary not available.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:57.810853+00:00"
+  },
+  "01kjeydm3gzg94j92gwf4f7rqx": {
+    "title": "https://www.linkedin.com/feed/update/urn:li:article:8057127566142043336?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aarticle%3A8057127566142043336%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+    "ai": {
+      "summary": "Summary not available.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:57.940297+00:00"
+  },
+  "01kjeyd2atar94axb3tct332zd": {
+    "title": "Vladimir Gribanov\u2019s Post",
+    "ai": {
+      "summary": "Vladimir Gribanov announced a new DuckDB extension for Azure SQL and Microsoft Fabric with improved authentication and faster metadata loading. Azure SQL migration tools are being updated or deprecated, with new guidance provided for smooth transitions. Dell Technologies and Azure Stack aim to simplify hybrid cloud SQL Server management for better performance and control.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:58.059268+00:00"
+  },
+  "01kjexm94x6aayegvfa9f3zm9j": {
+    "title": "Tabular Editor\u2019s Post",
+    "ai": {
+      "summary": "Power BI and Fabric models can save memory by using the VertiPaq Analyzer to find and fix heavy data. Large language models train faster and better by processing data in batches instead of one word at a time. Techniques like Support Vector Machines and memory-efficient backpropagation improve machine learning performance and reduce resource use.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:58.179660+00:00"
+  },
+  "01kjewyba7r2467xh0x9mfnv83": {
+    "title": "Piotr Czarnas\u2019 Post",
+    "ai": {
+      "summary": "Data Fabric is an architecture that simplifies data access by hiding integration complexity. It combines real-time access, automation, and governance to ensure data quality and freshness. True Data Fabric helps users trust their data by managing metadata and tracking data usage centrally.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:58.310473+00:00"
+  },
+  "01kjetnabts3q5t1f83cpwazxk": {
+    "title": "Dr. Simon Harrer\u2019s Post",
+    "ai": {
+      "summary": "The Data Contract Editor turns data models into full agreements between data producers and consumers, adding rules, ownership, SLAs, and access control. It uses a single YAML file based on an open standard and automates quality checks in CI/CD pipelines. The tool is open source, customizable, and easy to run in a browser, CLI, or Docker.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:58.444216+00:00"
+  },
+  "01kjcgjbnn8d184wdfp1622q6s": {
+    "title": "Yassine Mahboub\u2019s Post",
+    "ai": {
+      "summary": "Good data quality is the foundation for trustworthy business insights and AI. Teams must focus on accuracy, checks, and strong governance to build data trust. Without trust, decisions and AI results become unreliable.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:58.602350+00:00"
+  },
+  "01kjcgj3nvq00zgce16c7knqmm": {
+    "title": "Mimoune Djouallah\u2019s Post",
+    "ai": {
+      "summary": "Mimoune Djouallah explains how to use Microsoft Fabric\u2019s SQL Endpoint to read secured OneLake tables from external tools like DuckDB. DuckDB supports many data sources, making it a powerful data virtualization layer. This approach helps maintain data security while enabling easy data access and analysis.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:58.720325+00:00"
+  },
+  "01kjcghkmds42xr5288rc2m61m": {
+    "title": "Optimize Delta Table Performance with Deletion Vectors",
+    "ai": {
+      "summary": "Deletion Vectors in Delta tables let you delete or update millions of rows without rewriting large files, improving performance. Delta uses Parquet files with metadata to enable fast, efficient reads and updates. Choosing the right file format and optimizing queries greatly speeds up data processing in Databricks.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:58.844818+00:00"
+  },
+  "01kjcgh8v94jpz9a1tfc1nfnkj": {
+    "title": "Automating Engineering Workflow with create-pr and create-diagram skills",
+    "ai": {
+      "summary": "AI agents can build software much faster by handling repetitive coding tasks. Engineers focus more on designing clear rules and feedback loops to guide these agents. This approach improves reliability and speeds up development without manual coding.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:58.967026+00:00"
+  },
+  "01kjcggm0m9hpy0k97g1yhywnt": {
+    "title": "Peter K.\u2019s Post",
+    "ai": {
+      "summary": "Building OneLake in Microsoft Fabric requires careful planning from the start. Good governance and metadata keep data organized and secure. Virtualization helps combine data without losing control or performance.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:59.156270+00:00"
+  },
+  "01kjcgg9rmadtay1ew1df1rckg": {
+    "title": "Dennes Torres\u2019 Post",
+    "ai": {
+      "summary": "Dennes Torres explains how Variable Libraries in Microsoft Fabric help automate Lakehouse deployments without manual shortcut fixes. This makes deployment cleaner, safer, and more confident. The video guides users on managing data across development stages effectively.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:59.290626+00:00"
+  },
+  "01kjcgfq06w9jhefmy314gd6pw": {
+    "title": "Gregor Brunner\u2019s Post",
+    "ai": {
+      "summary": "Gregor Brunner shared a blog post by his colleague Klaus about improving Power BI models. They found 16 easy ways to make models smaller using #MeasureKiller. The post helps avoid problems like model bloat from calculated columns.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:59.417874+00:00"
+  },
+  "01kjcgezyemgt7w1sznv32qfem": {
+    "title": "Adrian Chodkowski\u2019s Post",
+    "ai": {
+      "summary": "Delta Lake is a storage layer built on top of Parquet that adds reliability, ACID transactions, and data change tracking. Parquet is best for fast, read-only analytics with static data. Delta Lake is better for data that changes often and needs updates, deletes, and time travel.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:59.572934+00:00"
+  },
+  "01kjcgejzwk1vyfvg1t1kw2f6d": {
+    "title": "Tom Baeyens\u2019 Post",
+    "ai": {
+      "summary": "A data product is a trusted, well-defined dataset owned by a team and made easy for users to find and understand. It focuses on data quality, clear ownership, and how data is consumed, not just how it moves. Good data strategies include governance, performance, and aligning data with business goals for better decisions.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:59.654356+00:00"
+  },
+  "01kjb5dwgycp352kpy8118tpxq": {
+    "title": "Keeping Spark, OneLake, and Mirroring Reliable in Microsoft Fabric",
+    "ai": {
+      "summary": "Microsoft Fabric can have hidden delays and errors when Spark, OneLake, and mirroring work together under heavy use. Monitoring job success alone is not enough; teams need to check data freshness, permissions, and capacity to catch problems early. Using automated checks and clear triage steps helps keep data reliable and avoids surprises.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:59.776325+00:00"
+  },
+  "01kjb29bqeksydw1rpt7798mrb": {
+    "title": "Tom Baeyens\u2019 Post",
+    "ai": {
+      "summary": "Data contracts help data architects maintain quality across different domains without centralizing work. They provide a standard way to track and manage data quality with automation and version control. This improves visibility, supports reporting, and reduces manual audits.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:28:59.896842+00:00"
+  },
+  "01kj9mt6pdxfwqk7c3w2ae01r2": {
+    "title": "Barney Lawrence\u2019s Post",
+    "ai": {
+      "summary": "Barney Lawrence shared an update about the new approval workflows feature in Purview Data Governance. He invites users to try it and give feedback. The feature is still limited but could improve with future updates.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:29:00.017814+00:00"
+  },
+  "01kj5ewp07fd4nawgcdwxb20q0": {
+    "title": "Tom Baeyens\u2019 Post",
+    "ai": {
+      "summary": "A data product is a carefully prepared dataset made for a clear purpose. It has clear ownership, metadata, and guarantees for users. Data pipelines help create data products but are just one part of them.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:29:00.140644+00:00"
+  },
+  "01kj4w0v685r2q3h4vj7tpt9dv": {
+    "title": "Iurii (Yurri) Iurchenko, FACHDM\u2019s Post",
+    "ai": {
+      "summary": "Iurii Iurchenko wrote a blog about a new Draw.IO library for Microsoft Fabric. He encourages people to like and share his post to help others. The tool helps teams work better using diagrams.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:29:00.352001+00:00"
+  },
+  "01khpkbvd45a9qeyzkyfnzkf95": {
+    "title": "Boris Cherny\u2019s vision for Claude Code isn\u2019t about flashy demos or conversational tricks. It\u2019s about making AI feel like real infrastructure inside the development workflow.",
+    "ai": {
+      "summary": "Boris Cherny wants Claude Code to be a natural part of developers' workflow, not a flashy tool. It helps developers save time on repetitive tasks and focus on important decisions. Claude Code supports long projects and works smoothly with existing tools.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:29:00.473011+00:00"
+  },
+  "01khpjsycns98txet2y7y4hv3c": {
+    "title": "Adrian Chodkowski\u2019s Post",
+    "ai": {
+      "summary": "Delta Lake 3.2+ now has Row Tracking to follow every change in a table. Each row gets a unique ID that stays the same even after updates. You just need to enable it with a simple table property to start using this helpful feature.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:29:00.584833+00:00"
+  },
+  "01khnga2kkmnb6p2zpjc0n6pf2": {
+    "title": "Aleksi Partanen\u2019s Post",
+    "ai": {
+      "summary": "Microsoft Fabric items are owned by personal accounts, causing pipeline failures when passwords change. Using a Service Principal to run deployment pipelines solves this problem. This makes production environments more reliable and stable.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:29:00.706109+00:00"
+  },
+  "01khn35q780qqnhd3kyd34nneh": {
+    "title": "Alex Powers\u2019 Post",
+    "ai": {
+      "summary": "Alex Powers wants to improve AI development by giving clear instructions. He learned from Jeff Blankenburg that copying code without understanding it slows progress. Alex is working on a project that challenges him to find better solutions and strong business goals.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:29:00.821207+00:00"
+  },
+  "01khn35dv2e0p4n1znc1f9mkfj": {
+    "title": "Tobias M\u00fcller\u2019s Post",
+    "ai": {
+      "summary": "Tobias M\u00fcller created polyglot, a fast Rust SQL transpiler supporting over 30 SQL dialects with full test coverage. He built it using AI tools like Claude and GPT-5.3-Codex within three weeks, showing strong AI-assisted development potential. The project relies on sqlglot\u2019s open-source code and includes a Wasm/TypeScript SDK for browsers and servers.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:29:00.975048+00:00"
+  },
+  "01khn1vm463d0p3d9dtkvje4v3": {
+    "title": "Mohammed Adnan\u2019s Post",
+    "ai": {
+      "summary": "PBIP Studio is a free, open-source Windows toolkit that simplifies Power BI and Fabric development by automating repetitive tasks. It helps with data migration, model renaming, and local metadata management while running everything locally for privacy. The project invites the community to contribute and improve the tool together.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:29:01.097925+00:00"
+  },
+  "01khktp86w8k5v878ajn3yqkqv": {
+    "title": "Quickly add great reads from the Readwise community to your library",
+    "ai": {
+      "summary": "You can easily save documents to read later using Reader's browser extension or by uploading your files. To find popular content, just click a button to browse highlighted articles, PDFs, and tweets from other users. You can also access your saved documents from the Add Documents button in the app.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:29:01.225913+00:00"
+  },
+  "01khktp85j26s3naddsk5fbaea": {
+    "title": "Reader: Frequently Asked Questions",
+    "ai": {
+      "summary": "Reader lets you save and highlight articles on web and mobile, syncing all notes with Readwise and your apps. You can use keyboard shortcuts on web and a browser extension to save and highlight content easily. Reader organizes your saved articles and helps you read without distractions, while keeping all highlights synced across devices.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:29:01.349889+00:00"
+  },
+  "01khktp7avxrznaq7hw6ce5d9y": {
+    "title": "Getting Started with Reader",
+    "ai": {
+      "summary": "Reader is a powerful reading app that lets you save, highlight, and annotate many types of documents using keyboard shortcuts or mobile gestures. It also offers features like text-to-speech, a web highlighter, and YouTube video notes to boost your productivity. The app is constantly improving based on user feedback and includes helpful guides and support.",
+      "key_concepts": [],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-27T08:29:01.458692+00:00"
+  }
+}
