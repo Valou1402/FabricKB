@@ -1,9 +1,83 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-02-27 18:49 UTC
-> 71 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-02-28 02:04 UTC
+> 79 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Eureka - making %pip install work in child notebooks](https://www.reddit.com/r/MicrosoftFabric/comments/1jl4wzt/eureka_making_pip_install_work_in_child_notebooks/?share_id=WNvYST8vbv48eTl1vMVtd&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22)
+📅 2026-02-27 · 🌐 Reader Share Sheet iOS
+
+**Summary:** A workaround enables dynamic Python package installation in child notebooks by using get_ipython().run_line_magic() instead of %pip install. This solution helps developers avoid long environment startup times during development and testing phases.
+
+**Key Concepts:** Child notebooks, Dynamic package installation, notebookutils.notebook.run, Development workflows, Environment management
+
+**Contains Code:** ✅ (Python)
+
+---
+
+## [Open Mirroring - Anyone using in production?](https://www.reddit.com/r/MicrosoftFabric/comments/1oplua7/open_mirroring_anyone_using_in_production/?share_id=g__KLR7paL1NuOc_0LUof&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22)
+📅 2026-02-27 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Open Mirroring in Microsoft Fabric shows promise as a game-changing feature but faces production challenges including silent replication failures and performance issues. Some teams are successfully using it in production with workarounds like append-only ingestion and careful log monitoring.
+
+**Key Concepts:** Open Mirroring, Replication monitoring, Append-only ingestion, Production deployment, Performance optimization
+
+---
+
+## [Claude + Power BI Integration MASSIVE Breakthrough via MCP (Nov 2025 Update)](https://www.reddit.com/r/PowerBI/comments/1pcitfq/claude_power_bi_integration_massive_breakthrough/?share_id=gdaFYGiz5EjiOmSVw_s2n&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22)
+📅 2026-02-27 · 🌐 Reader Share Sheet iOS
+
+**Summary:** The November 2025 Power BI update introduces direct Claude AI integration through MCP for automated DAX creation, metadata improvement, and data dictionary generation. This integration enables AI-powered automation for Power BI models but requires careful verification to ensure accuracy.
+
+**Key Concepts:** Claude AI integration, DAX automation, Metadata management, Data dictionaries, AI-powered modeling, MCP protocol
+
+---
+
+## [Polars sink_delta to onelake is a Big Deal](https://www.reddit.com/r/MicrosoftFabric/comments/1q9wuoi/polars_sink_delta_to_onelake_is_a_big_deal/?share_id=JlsiL7Ys-4VQHJJFicBBA&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22)
+📅 2026-02-27 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Polars introduced a sink_delta feature that enables streaming data to OneLake in small batches, allowing efficient processing of large CSV files with limited memory resources. This capability provides performance advantages over other engines like DuckDB for small data scenarios in Fabric environments.
+
+**Key Concepts:** Polars, OneLake, Delta streaming, Memory optimization, CSV processing, Data ingestion
+
+---
+
+## [How to add unit tests for notebooks](https://www.reddit.com/r/MicrosoftFabric/comments/1qft2yq/how_to_add_unit_tests_for_notebooks/?share_id=yhq0D8TIa54a9YDUKDX-M&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22)
+📅 2026-02-27 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Unit testing Fabric notebooks is challenging due to their interactive nature and global dependencies. The recommended approach is to extract business logic into separate testable modules (wheels) while keeping notebooks as simple execution entry points.
+
+**Key Concepts:** Notebooks, Unit testing, Python modules, Wheels, Business logic separation, Code maintainability
+
+---
+
+## [Surge protection gets smarter: introducing workspace-level controls (Preview)](https://www.reddit.com/r/MicrosoftFabric/comments/1qnncmc/surge_protection_gets_smarter_introducing/?share_id=bspBsVNYnzI3u1oxymtUs&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22)
+📅 2026-02-27 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Microsoft Fabric has introduced workspace-level surge protection controls that limit capacity consumption per workspace over 24-hour periods. This feature helps prevent background operations from causing throttling issues, though it may not address short-term interactive usage spikes.
+
+**Key Concepts:** Workspace governance, Surge protection, Capacity management, Throttling prevention, Background operations
+
+---
+
+## [Transitioning to the New Power BI Enhanced Report Format (PBIR) - What You Need to Know](https://www.reddit.com/r/MicrosoftFabric/comments/1qxh7iq/transitioning_to_the_new_power_bi_enhanced_report/?share_id=hYhPenmDHgf8nUMwjdqwX&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22)
+📅 2026-02-27 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Microsoft is transitioning to PBIR as the default format for Power BI reports to improve source control integration and reduce merge conflicts. The format enhances automation capabilities and makes reports more readable for version control, though conversion is difficult to reverse and currently in preview status.
+
+**Key Concepts:** PBIR format, Power BI reports, Source control integration, Merge conflict reduction, Report automation, Version control
+
+---
+
+## [Open Mirroring Full Drop](https://www.reddit.com/r/MicrosoftFabric/comments/1qzufgs/open_mirroring_full_drop/?share_id=nuvscPeLbCNjedCuVmt0E&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22)
+📅 2026-02-27 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Open Mirroring tables can be fully reset by deleting the entire LandingZone folder, which will drop the mirrored table after a brief delay. The system operates asynchronously, so there's a normal wait time before the table is recreated from the source.
+
+**Key Concepts:** Open Mirroring, LandingZone folder, Table reset, Asynchronous sync, Mirror tables
 
 ---
 

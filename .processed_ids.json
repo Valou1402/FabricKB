@@ -785,5 +785,145 @@
     },
     "highlights": [],
     "processed_at": "2026-02-27T18:49:19.782261+00:00"
+  },
+  "01kjgcjjdfksm8mnq6g290w66n": {
+    "title": "Eureka - making %pip install work in child notebooks",
+    "ai": {
+      "summary": "A workaround enables dynamic Python package installation in child notebooks by using get_ipython().run_line_magic() instead of %pip install. This solution helps developers avoid long environment startup times during development and testing phases.",
+      "key_concepts": [
+        "Child notebooks",
+        "Dynamic package installation",
+        "notebookutils.notebook.run",
+        "Development workflows",
+        "Environment management"
+      ],
+      "has_code": true,
+      "code_language": "Python"
+    },
+    "highlights": [],
+    "processed_at": "2026-02-28T02:04:15.750642+00:00"
+  },
+  "01kjgcepbvd9z5380h07mm1a29": {
+    "title": "Open Mirroring - Anyone using in production?",
+    "ai": {
+      "summary": "Open Mirroring in Microsoft Fabric shows promise as a game-changing feature but faces production challenges including silent replication failures and performance issues. Some teams are successfully using it in production with workarounds like append-only ingestion and careful log monitoring.",
+      "key_concepts": [
+        "Open Mirroring",
+        "Replication monitoring",
+        "Append-only ingestion",
+        "Production deployment",
+        "Performance optimization"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-28T02:04:18.384062+00:00"
+  },
+  "01kjgccb81jwhq0bxv0dj0byyg": {
+    "title": "Claude + Power BI Integration MASSIVE Breakthrough via MCP (Nov 2025 Update)",
+    "ai": {
+      "summary": "The November 2025 Power BI update introduces direct Claude AI integration through MCP for automated DAX creation, metadata improvement, and data dictionary generation. This integration enables AI-powered automation for Power BI models but requires careful verification to ensure accuracy.",
+      "key_concepts": [
+        "Claude AI integration",
+        "DAX automation",
+        "Metadata management",
+        "Data dictionaries",
+        "AI-powered modeling",
+        "MCP protocol"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-28T02:04:21.668177+00:00"
+  },
+  "01kjgcbpv17pjnhmke61zrspkz": {
+    "title": "Polars sink_delta to onelake is a Big Deal",
+    "ai": {
+      "summary": "Polars introduced a sink_delta feature that enables streaming data to OneLake in small batches, allowing efficient processing of large CSV files with limited memory resources. This capability provides performance advantages over other engines like DuckDB for small data scenarios in Fabric environments.",
+      "key_concepts": [
+        "Polars",
+        "OneLake",
+        "Delta streaming",
+        "Memory optimization",
+        "CSV processing",
+        "Data ingestion"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-28T02:04:24.875889+00:00"
+  },
+  "01kjgcagxzh5508q4ar4ppfs30": {
+    "title": "How to add unit tests for notebooks",
+    "ai": {
+      "summary": "Unit testing Fabric notebooks is challenging due to their interactive nature and global dependencies. The recommended approach is to extract business logic into separate testable modules (wheels) while keeping notebooks as simple execution entry points.",
+      "key_concepts": [
+        "Notebooks",
+        "Unit testing",
+        "Python modules",
+        "Wheels",
+        "Business logic separation",
+        "Code maintainability"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-28T02:04:29.177610+00:00"
+  },
+  "01kjgc9xdm7ys92dmqcjajhyhq": {
+    "title": "Surge protection gets smarter: introducing workspace-level controls (Preview)",
+    "ai": {
+      "summary": "Microsoft Fabric has introduced workspace-level surge protection controls that limit capacity consumption per workspace over 24-hour periods. This feature helps prevent background operations from causing throttling issues, though it may not address short-term interactive usage spikes.",
+      "key_concepts": [
+        "Workspace governance",
+        "Surge protection",
+        "Capacity management",
+        "Throttling prevention",
+        "Background operations"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-28T02:04:31.910681+00:00"
+  },
+  "01kjgc9dw6fn041d0ent9796jz": {
+    "title": "Transitioning to the New Power BI Enhanced Report Format (PBIR) - What You Need to Know",
+    "ai": {
+      "summary": "Microsoft is transitioning to PBIR as the default format for Power BI reports to improve source control integration and reduce merge conflicts. The format enhances automation capabilities and makes reports more readable for version control, though conversion is difficult to reverse and currently in preview status.",
+      "key_concepts": [
+        "PBIR format",
+        "Power BI reports",
+        "Source control integration",
+        "Merge conflict reduction",
+        "Report automation",
+        "Version control"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-28T02:04:35.223403+00:00"
+  },
+  "01kjgc91skwb5a8ses03mwbfak": {
+    "title": "Open Mirroring Full Drop",
+    "ai": {
+      "summary": "Open Mirroring tables can be fully reset by deleting the entire LandingZone folder, which will drop the mirrored table after a brief delay. The system operates asynchronously, so there's a normal wait time before the table is recreated from the source.",
+      "key_concepts": [
+        "Open Mirroring",
+        "LandingZone folder",
+        "Table reset",
+        "Asynchronous sync",
+        "Mirror tables"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-02-28T02:04:38.402371+00:00"
   }
 }
