@@ -925,5 +925,20 @@
     },
     "highlights": [],
     "processed_at": "2026-02-28T02:04:38.402371+00:00"
+  },
+  "01kjn2gyrsnqs8m99q6rmsvqcg": {
+    "title": "LinkedIn",
+    "ai": {
+      "summary": "This appears to be a generic LinkedIn platform description rather than Microsoft Fabric technical content. The content describes LinkedIn's social networking features and member count, which is not relevant for Fabric practitioners.",
+      "key_concepts": [
+        "Social networking",
+        "Professional identity",
+        "Member engagement"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-01T18:37:21.166767+00:00"
   }
 }

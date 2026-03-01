@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-01 12:54 UTC
-> 79 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-01 18:37 UTC
+> 80 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [LinkedIn](https://www.linkedin.com/posts/ugcPost-7433895191406837760-wPrU?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-01 · 🌐 Reader Share Sheet iOS
+
+**Summary:** This appears to be a generic LinkedIn platform description rather than Microsoft Fabric technical content. The content describes LinkedIn's social networking features and member count, which is not relevant for Fabric practitioners.
+
+**Key Concepts:** Social networking, Professional identity, Member engagement
 
 ---
 
