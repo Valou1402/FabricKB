@@ -1,9 +1,20 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-02 02:23 UTC
-> 80 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-02 07:02 UTC
+> 81 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Custom Logging in Microsoft Fabric Notebooks](https://www.kevinoftech.com/Blog/Post/2026-01-fabric-custom-logging)
+📅 2026-03-02 · 🌐 Reader Share Sheet iOS
+
+**Summary:** This article demonstrates how to implement custom logging in Microsoft Fabric Notebooks by integrating Python logging with Eventhouse for real-time monitoring. The approach enables practitioners to track notebook errors and build monitoring dashboards and notifications for better operational visibility.
+
+**Key Concepts:** Fabric Notebooks, Eventhouse, Custom logging, Real-time monitoring, Error tracking, Python integration, Dashboards
+
+**Contains Code:** ✅ (Python)
 
 ---
 

@@ -940,5 +940,24 @@
     },
     "highlights": [],
     "processed_at": "2026-03-01T18:37:21.166767+00:00"
+  },
+  "01kjpk3s7rr2pxtp2whvhgsyp6": {
+    "title": "Custom Logging in Microsoft Fabric Notebooks",
+    "ai": {
+      "summary": "This article demonstrates how to implement custom logging in Microsoft Fabric Notebooks by integrating Python logging with Eventhouse for real-time monitoring. The approach enables practitioners to track notebook errors and build monitoring dashboards and notifications for better operational visibility.",
+      "key_concepts": [
+        "Fabric Notebooks",
+        "Eventhouse",
+        "Custom logging",
+        "Real-time monitoring",
+        "Error tracking",
+        "Python integration",
+        "Dashboards"
+      ],
+      "has_code": true,
+      "code_language": "Python"
+    },
+    "highlights": [],
+    "processed_at": "2026-03-02T07:02:13.247525+00:00"
   }
 }
