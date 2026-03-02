@@ -1,9 +1,72 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-02 07:02 UTC
-> 81 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-02 13:04 UTC
+> 88 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Understand star schema and the importance for Power BI - Power BI](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema)
+📅 2026-03-02 · 🌐 Reader add from import URL
+
+**Summary:** Explains star schema design principles for Power BI data models, covering how to structure dimension and fact tables for optimal performance. Provides guidance on model table classification, fact table grain consistency, and best practices for creating efficient analytical models.
+
+**Key Concepts:** Star schema, Dimension tables, Fact tables, Data modeling, Model optimization, Surrogate keys, Snowflake dimensions, Role-playing dimensions
+
+---
+
+## [FinOps for Microsoft Fabric](https://www.linkedin.com/pulse/finops-microsoft-fabric-romain-casteres-hc6ee/?trackingId=EsV2SXgo7FOHYdpg%2FLqSrg%3D%3D)
+📅 2026-03-02 · 🌐 Reader add from import URL
+
+**Summary:** This article explores FinOps practices specifically tailored for Microsoft Fabric, focusing on cost optimization strategies and cloud resource management. It provides guidance on monitoring usage patterns and controlling expenses to maximize value from Fabric investments.
+
+**Key Concepts:** FinOps practices, Cost optimization, Cloud resource management, Usage monitoring, Expense management, Cloud operations efficiency
+
+---
+
+## [Améliorer la qualité de ses données grâce à Great Expectation dans Microsoft Fabric Partie 1 : Prise en main du service Open Source](https://gennakerdata.com/2025/02/19/great-expectations-part1/)
+📅 2026-03-02 · 🌐 Reader add from import URL
+
+**Summary:** This article introduces Great Expectations, an open-source Python library for data quality validation through expectations (rules), and demonstrates how to implement it within Microsoft Fabric for data quality control and visualization. It provides a foundation for automated data quality monitoring and tracking quality evolution over time in Fabric environments.
+
+**Key Concepts:** Great Expectations, Data quality, Python library, Data validation, Expectations, Open source, Data quality monitoring
+
+---
+
+## [The Fabric Concurrency Showdown: RunMultiple vs. ThreadPools](https://milescole.dev/data-engineering/2024/04/26/Fabric-Concurrency-Showdown-RunMultiple-vs-ThreadPool.html)
+📅 2026-03-02 · 🌐 Reader add from import URL
+
+**Summary:** A performance comparison between RunMultiple and ThreadPools for concurrent job execution in Spark within Microsoft Fabric. ThreadPools demonstrated 5x better performance than RunMultiple, though RunMultiple provides superior job monitoring capabilities while ThreadPools require more implementation effort.
+
+**Key Concepts:** Spark concurrency, RunMultiple, ThreadPools, Performance optimization, Job monitoring, Concurrent processing
+
+---
+
+## [LinkedIn](https://www.linkedin.com/posts/activity-7294424747344338944-p-k5?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJqwDEBsiZ58c7GqQ2B9q2wduKp_shDhnM)
+📅 2026-03-02 · 🌐 Reader add from import URL
+
+**Summary:** This appears to be a generic LinkedIn platform description rather than Microsoft Fabric technical content. The content describes LinkedIn's general features for professional networking and does not contain any Fabric-specific technical information or guidance.
+
+**Key Concepts:** Professional networking, LinkedIn platform
+
+---
+
+## [Validate CSV files before ingestion in Microsoft Fabric Data Factory Pipelines](https://techcommunity.microsoft.com/blog/fasttrackforazureblog/validate-csv-files-before-ingestion-in-microsoft-fabric-data-factory-pipelines/4159877)
+📅 2026-03-02 · 🌐 Reader add from import URL
+
+**Summary:** Microsoft Fabric Data Factory Pipelines can implement CSV file validation before ingestion to ensure data quality and prevent processing of malformed files. This approach reduces costs and maintains data integrity by catching format issues early and sending error notifications for quick resolution.
+
+**Key Concepts:** Data Factory Pipelines, CSV validation, Data ingestion, Data quality, Pipeline error handling, Data integrity
+
+---
+
+## [Fabric Governance: Access & Permission scenarios for sharing Data and Models (+ Security) with End Users](https://downhill-data.com/2025/02/18/fabric-governance-access-permission-scenarios-for-sharing-data-and-models-security-with-end-users/)
+📅 2026-03-02 · 🌐 Readwise web highlighter
+
+**Summary:** The article covers data access patterns in Microsoft Fabric, focusing on permission models for DirectLake scenarios where users need Lakehouse read permissions. It emphasizes managing row-level security through semantic models with fixed identities for optimal performance, and leverages OneLake Data Access Roles and SQL granular permissions for table and row-level restrictions.
+
+**Key Concepts:** DirectLake models, Lakehouse permissions, Row-level security (RLS), OneLake Data Access Roles, SQL granular permissions, Semantic model security, Data sensitivity, Fixed identities
 
 ---
 

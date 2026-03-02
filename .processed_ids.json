@@ -959,5 +959,132 @@
     },
     "highlights": [],
     "processed_at": "2026-03-02T07:02:13.247525+00:00"
+  },
+  "01kjq9dm8wzgzq8e5z9gzyyy8m": {
+    "title": "Understand star schema and the importance for Power BI - Power BI",
+    "ai": {
+      "summary": "Explains star schema design principles for Power BI data models, covering how to structure dimension and fact tables for optimal performance. Provides guidance on model table classification, fact table grain consistency, and best practices for creating efficient analytical models.",
+      "key_concepts": [
+        "Star schema",
+        "Dimension tables",
+        "Fact tables",
+        "Data modeling",
+        "Model optimization",
+        "Surrogate keys",
+        "Snowflake dimensions",
+        "Role-playing dimensions"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-02T13:04:27.910456+00:00"
+  },
+  "01kjq9dc69evhw4v0gbwf807gw": {
+    "title": "FinOps for Microsoft Fabric",
+    "ai": {
+      "summary": "This article explores FinOps practices specifically tailored for Microsoft Fabric, focusing on cost optimization strategies and cloud resource management. It provides guidance on monitoring usage patterns and controlling expenses to maximize value from Fabric investments.",
+      "key_concepts": [
+        "FinOps practices",
+        "Cost optimization",
+        "Cloud resource management",
+        "Usage monitoring",
+        "Expense management",
+        "Cloud operations efficiency"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-02T13:04:30.590631+00:00"
+  },
+  "01kjq9d4mxwk4281txaq4nwdfm": {
+    "title": "Am\u00e9liorer la qualit\u00e9 de ses donn\u00e9es gr\u00e2ce \u00e0 Great Expectation dans Microsoft Fabric Partie 1 : Prise en main du service Open Source",
+    "ai": {
+      "summary": "This article introduces Great Expectations, an open-source Python library for data quality validation through expectations (rules), and demonstrates how to implement it within Microsoft Fabric for data quality control and visualization. It provides a foundation for automated data quality monitoring and tracking quality evolution over time in Fabric environments.",
+      "key_concepts": [
+        "Great Expectations",
+        "Data quality",
+        "Python library",
+        "Data validation",
+        "Expectations",
+        "Open source",
+        "Data quality monitoring"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-02T13:04:33.853713+00:00"
+  },
+  "01kjq9c80mz3mj2mpgq0qt6nk5": {
+    "title": "The Fabric Concurrency Showdown: RunMultiple vs. ThreadPools",
+    "ai": {
+      "summary": "A performance comparison between RunMultiple and ThreadPools for concurrent job execution in Spark within Microsoft Fabric. ThreadPools demonstrated 5x better performance than RunMultiple, though RunMultiple provides superior job monitoring capabilities while ThreadPools require more implementation effort.",
+      "key_concepts": [
+        "Spark concurrency",
+        "RunMultiple",
+        "ThreadPools",
+        "Performance optimization",
+        "Job monitoring",
+        "Concurrent processing"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-02T13:04:36.705005+00:00"
+  },
+  "01kjq9c0j6w9vdr23pp0q4gtzc": {
+    "title": "LinkedIn",
+    "ai": {
+      "summary": "This appears to be a generic LinkedIn platform description rather than Microsoft Fabric technical content. The content describes LinkedIn's general features for professional networking and does not contain any Fabric-specific technical information or guidance.",
+      "key_concepts": [
+        "Professional networking",
+        "LinkedIn platform"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-02T13:04:39.234506+00:00"
+  },
+  "01kjq9bhrqx59x7mff73j2jywt": {
+    "title": "Validate CSV files before ingestion in Microsoft Fabric Data Factory Pipelines",
+    "ai": {
+      "summary": "Microsoft Fabric Data Factory Pipelines can implement CSV file validation before ingestion to ensure data quality and prevent processing of malformed files. This approach reduces costs and maintains data integrity by catching format issues early and sending error notifications for quick resolution.",
+      "key_concepts": [
+        "Data Factory Pipelines",
+        "CSV validation",
+        "Data ingestion",
+        "Data quality",
+        "Pipeline error handling",
+        "Data integrity"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-02T13:04:41.998420+00:00"
+  },
+  "01kjq7feh19460z4gn1ehaz144": {
+    "title": "Fabric Governance: Access & Permission scenarios for sharing Data and Models (+ Security) with End Users",
+    "ai": {
+      "summary": "The article covers data access patterns in Microsoft Fabric, focusing on permission models for DirectLake scenarios where users need Lakehouse read permissions. It emphasizes managing row-level security through semantic models with fixed identities for optimal performance, and leverages OneLake Data Access Roles and SQL granular permissions for table and row-level restrictions.",
+      "key_concepts": [
+        "DirectLake models",
+        "Lakehouse permissions",
+        "Row-level security (RLS)",
+        "OneLake Data Access Roles",
+        "SQL granular permissions",
+        "Semantic model security",
+        "Data sensitivity",
+        "Fixed identities"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-02T13:04:46.111820+00:00"
   }
 }
