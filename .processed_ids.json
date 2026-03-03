@@ -1086,5 +1086,56 @@
     },
     "highlights": [],
     "processed_at": "2026-03-02T13:04:46.111820+00:00"
+  },
+  "01kjs2rhwq8pzf9x4w3d9kw4gd": {
+    "title": "Will McTighe\u2019s Post",
+    "ai": {
+      "summary": "This article discusses Claude Code, a no-code/low-code platform that allows users to build simple tools through file uploads and natural language prompts. While not directly related to Microsoft Fabric, it represents the broader trend of AI-assisted development tools that may complement Fabric workflows.",
+      "key_concepts": [
+        "No-code development",
+        "AI-assisted tools",
+        "Natural language prompts",
+        "Application development"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-03T06:56:14.856963+00:00"
+  },
+  "01kjs2qs31waeth16n3q6an92k": {
+    "title": "Maxime Bombardier\u2019s Post",
+    "ai": {
+      "summary": "Maxime Bombardier shared new visual resources about Purview classification and labeling tools to help teams better understand and implement data protection. These materials focus on enabling organizations to protect their data while safely leveraging AI capabilities.",
+      "key_concepts": [
+        "Purview classification",
+        "Data labeling",
+        "Data protection",
+        "AI safety",
+        "Information governance"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-03T06:56:17.556775+00:00"
+  },
+  "01kjs2qc3tny0462y9cnrr95a3": {
+    "title": "Maarten Masschelein\u2019s Post",
+    "ai": {
+      "summary": "Data governance requires clear, shared definitions of key roles and concepts to establish proper control and accountability across teams. The article emphasizes the importance of aligning on fundamental terminology like data owner and data steward for effective governance implementation.",
+      "key_concepts": [
+        "Data governance",
+        "Data owner",
+        "Data steward",
+        "Data quality",
+        "Accountability",
+        "Team alignment"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-03T06:56:20.642055+00:00"
   }
 }

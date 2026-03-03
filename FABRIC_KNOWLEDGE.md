@@ -1,9 +1,36 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-03 02:26 UTC
-> 88 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-03 06:56 UTC
+> 91 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Will McTighe’s Post](https://www.linkedin.com/posts/will-mctighe_how-to-get-started-on-claude-code-even-activity-7434236129521909760-YWQW?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-03 · 🌐 Reader Share Sheet iOS
+
+**Summary:** This article discusses Claude Code, a no-code/low-code platform that allows users to build simple tools through file uploads and natural language prompts. While not directly related to Microsoft Fabric, it represents the broader trend of AI-assisted development tools that may complement Fabric workflows.
+
+**Key Concepts:** No-code development, AI-assisted tools, Natural language prompts, Application development
+
+---
+
+## [Maxime Bombardier’s Post](https://www.linkedin.com/posts/maximebombardier_purview-datasecurity-informationprotection-ugcPost-7434438940008493056-wctT?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-03 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Maxime Bombardier shared new visual resources about Purview classification and labeling tools to help teams better understand and implement data protection. These materials focus on enabling organizations to protect their data while safely leveraging AI capabilities.
+
+**Key Concepts:** Purview classification, Data labeling, Data protection, AI safety, Information governance
+
+---
+
+## [Maarten Masschelein’s Post](https://www.linkedin.com/posts/maartenm_let-us-go-back-to-the-basics-of-data-governance-activity-7434253066041720833-zIq1?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-03 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Data governance requires clear, shared definitions of key roles and concepts to establish proper control and accountability across teams. The article emphasizes the importance of aligning on fundamental terminology like data owner and data steward for effective governance implementation.
+
+**Key Concepts:** Data governance, Data owner, Data steward, Data quality, Accountability, Team alignment
 
 ---
 
