@@ -1,6 +1,6 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-04 06:52 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-04 13:02 UTC
 > 93 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
