@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-04 02:12 UTC
-> 92 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-04 06:52 UTC
+> 93 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [I've been using Claude Code + Power BI MCP server for 2 months. Here's what actually works and what doesn't.](https://www.reddit.com/r/PowerBI/comments/1rj7kv8/ive_been_using_claude_code_power_bi_mcp_server/?share_id=RQY0madhOsXcPRTlZhrsc&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22)
+📅 2026-03-04 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Claude Code integrated with Power BI through MCP server automates data modeling, documentation, and report creation tasks, helping with dummy data generation and measure organization. The tool is effective for productivity but requires human oversight to ensure accuracy and prevent unnecessary additions to the model.
+
+**Key Concepts:** MCP server integration, Data modeling automation, Measure management, Report building, AI-assisted development, Model documentation
 
 ---
 

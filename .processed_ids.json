@@ -1155,5 +1155,23 @@
     },
     "highlights": [],
     "processed_at": "2026-03-04T02:12:21.056397+00:00"
+  },
+  "01kjvpg81d71f4d4tqxsrq8rwk": {
+    "title": "I've been using Claude Code + Power BI MCP server for 2 months. Here's what actually works and what doesn't.",
+    "ai": {
+      "summary": "Claude Code integrated with Power BI through MCP server automates data modeling, documentation, and report creation tasks, helping with dummy data generation and measure organization. The tool is effective for productivity but requires human oversight to ensure accuracy and prevent unnecessary additions to the model.",
+      "key_concepts": [
+        "MCP server integration",
+        "Data modeling automation",
+        "Measure management",
+        "Report building",
+        "AI-assisted development",
+        "Model documentation"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-04T06:52:35.430622+00:00"
   }
 }
