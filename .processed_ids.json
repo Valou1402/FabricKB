@@ -1137,5 +1137,23 @@
     },
     "highlights": [],
     "processed_at": "2026-03-03T06:56:20.642055+00:00"
+  },
+  "01kjtfxx9ge4kwfx7yxjn4ccyq": {
+    "title": "Tom Baeyens\u2019 Post",
+    "ai": {
+      "summary": "Data contracts provide machine-readable rules for automated data quality validation between systems, with particular application in retail scenarios for sales and inventory data. They offer proactive error prevention by stopping data flow and triggering alerts when quality standards are violated.",
+      "key_concepts": [
+        "Data contracts",
+        "Data quality",
+        "Machine-readable rules",
+        "Data validation",
+        "Error prevention",
+        "System integration"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-04T02:12:21.056397+00:00"
   }
 }

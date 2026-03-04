@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-03 13:03 UTC
-> 91 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-04 02:12 UTC
+> 92 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Tom Baeyens’ Post](https://www.linkedin.com/posts/tombaeyens_unlike-traditional-specs-data-contracts-activity-7433125734581186560-sb7c?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-03 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Data contracts provide machine-readable rules for automated data quality validation between systems, with particular application in retail scenarios for sales and inventory data. They offer proactive error prevention by stopping data flow and triggering alerts when quality standards are violated.
+
+**Key Concepts:** Data contracts, Data quality, Machine-readable rules, Data validation, Error prevention, System integration
 
 ---
 
