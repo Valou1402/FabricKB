@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-05 02:23 UTC
-> 93 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-05 06:56 UTC
+> 94 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Sandeep Pawar’s Post](https://www.linkedin.com/posts/sanpawar_microsoftfabric-dataagent-activity-7435038862596452352--Mzb?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-05 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Microsoft Fabric has simplified Data Agent creation by reducing permission requirements - only Read permission is needed to add and use semantic models, while maintaining data security. Agent creation still requires at least Contributor role for proper governance.
+
+**Key Concepts:** Data Agents, Semantic models, Permission management, Data security, Role-based access
 
 ---
 

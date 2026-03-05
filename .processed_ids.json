@@ -1173,5 +1173,22 @@
     },
     "highlights": [],
     "processed_at": "2026-03-04T06:52:35.430622+00:00"
+  },
+  "01kjy727919t6dmm8qbcejwmrz": {
+    "title": "Sandeep Pawar\u2019s Post",
+    "ai": {
+      "summary": "Microsoft Fabric has simplified Data Agent creation by reducing permission requirements - only Read permission is needed to add and use semantic models, while maintaining data security. Agent creation still requires at least Contributor role for proper governance.",
+      "key_concepts": [
+        "Data Agents",
+        "Semantic models",
+        "Permission management",
+        "Data security",
+        "Role-based access"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-05T06:56:23.204017+00:00"
   }
 }
