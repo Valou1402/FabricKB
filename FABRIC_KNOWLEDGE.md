@@ -1,9 +1,27 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-05 13:06 UTC
-> 94 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-05 19:18 UTC
+> 96 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Yurii Rebryk’s Post](https://www.linkedin.com/posts/yrebryk_this-%F0%9D%97%96%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A8%F0%9D%97%97%F0%9D%97%98%F0%9D%97%BA%F0%9D%97%B1-file-can-help-you-activity-7435286848622497792-hIYI?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-05 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Yurii Rebryk shares a CLAUDE.md file that enables AI tools to function like senior engineers by breaking down tasks systematically, learning from feedback, and performing autonomous debugging. This approach helps small teams save time and reduce costs when building AI-powered solutions.
+
+**Key Concepts:** AI engineering, Automation, Debugging, Team productivity
+
+---
+
+## [Wilfried de Renty’s Post](https://www.linkedin.com/posts/wilfried-de-renty_jai-vu-des-%C3%A9quipes-perdre-des-heures-%C3%A0-re-expliquer-activity-7434187007729405953-6ZMx?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-05 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Wilfried de Renty recommends organizing code repositories into five clear folders to improve AI assistant (Claude) comprehension of projects. This structured approach reduces the need for repeated explanations and minimizes errors, leading to more efficient AI-assisted development sessions.
+
+**Key Concepts:** Repository organization, AI assistant optimization, Code structure, Development efficiency
 
 ---
 

@@ -1190,5 +1190,37 @@
     },
     "highlights": [],
     "processed_at": "2026-03-05T06:56:23.204017+00:00"
+  },
+  "01kjzf19wt6dete0antkse5t2n": {
+    "title": "Yurii Rebryk\u2019s Post",
+    "ai": {
+      "summary": "Yurii Rebryk shares a CLAUDE.md file that enables AI tools to function like senior engineers by breaking down tasks systematically, learning from feedback, and performing autonomous debugging. This approach helps small teams save time and reduce costs when building AI-powered solutions.",
+      "key_concepts": [
+        "AI engineering",
+        "Automation",
+        "Debugging",
+        "Team productivity"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-05T19:18:27.590936+00:00"
+  },
+  "01kjze5w32spnq73ks4m1s2p32": {
+    "title": "Wilfried de Renty\u2019s Post",
+    "ai": {
+      "summary": "Wilfried de Renty recommends organizing code repositories into five clear folders to improve AI assistant (Claude) comprehension of projects. This structured approach reduces the need for repeated explanations and minimizes errors, leading to more efficient AI-assisted development sessions.",
+      "key_concepts": [
+        "Repository organization",
+        "AI assistant optimization",
+        "Code structure",
+        "Development efficiency"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-05T19:18:30.188443+00:00"
   }
 }
