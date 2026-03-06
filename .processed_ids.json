@@ -1222,5 +1222,21 @@
     },
     "highlights": [],
     "processed_at": "2026-03-05T19:18:30.188443+00:00"
+  },
+  "01kjzv1m1ab8t1y11p22mana4c": {
+    "title": "Guy in a Cube\u2019s Post",
+    "ai": {
+      "summary": "Microsoft Fabric users still require separate Purview licenses for full data governance capabilities, as Fabric's built-in governance features don't replace all Purview functionality. Some Purview components may be included with Microsoft 365 but aren't utilized within Fabric workloads.",
+      "key_concepts": [
+        "Purview licensing",
+        "Data governance",
+        "Microsoft 365 integration",
+        "License requirements"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-06T02:21:11.971458+00:00"
   }
 }

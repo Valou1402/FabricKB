@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-05 19:18 UTC
-> 96 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-06 02:21 UTC
+> 97 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Guy in a Cube’s Post](https://www.linkedin.com/posts/guyinacube_do-we-need-extra-purview-licenses-if-we-activity-7435345917832073218-sM3w?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-05 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Microsoft Fabric users still require separate Purview licenses for full data governance capabilities, as Fabric's built-in governance features don't replace all Purview functionality. Some Purview components may be included with Microsoft 365 but aren't utilized within Fabric workloads.
+
+**Key Concepts:** Purview licensing, Data governance, Microsoft 365 integration, License requirements
 
 ---
 
