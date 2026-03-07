@@ -1238,5 +1238,23 @@
     },
     "highlights": [],
     "processed_at": "2026-03-06T02:21:11.971458+00:00"
+  },
+  "01kk3s7ckyca0zmv656m5fh1hb": {
+    "title": "Tom Baeyens\u2019 Post",
+    "ai": {
+      "summary": "ODCS provides a metadata standard for describing data without runtime enforcement, while Soda's Collaborative Data Contracts enable executable governance through automated data quality checks with easy-to-use templates for pipeline integration.",
+      "key_concepts": [
+        "ODCS standard",
+        "Data contracts",
+        "Metadata governance",
+        "Automated data quality",
+        "Pipeline governance",
+        "Executable governance"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-07T12:52:50.307337+00:00"
   }
 }

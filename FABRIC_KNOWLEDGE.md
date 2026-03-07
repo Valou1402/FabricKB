@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-07 06:45 UTC
-> 97 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-07 12:52 UTC
+> 98 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Tom Baeyens’ Post](https://www.linkedin.com/posts/tombaeyens_i-have-been-asked-many-times-about-this-activity-7429495929734430720-Gz0Y?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-07 · 🌐 Reader Share Sheet iOS
+
+**Summary:** ODCS provides a metadata standard for describing data without runtime enforcement, while Soda's Collaborative Data Contracts enable executable governance through automated data quality checks with easy-to-use templates for pipeline integration.
+
+**Key Concepts:** ODCS standard, Data contracts, Metadata governance, Automated data quality, Pipeline governance, Executable governance
 
 ---
 
