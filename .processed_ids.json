@@ -1256,5 +1256,19 @@
     },
     "highlights": [],
     "processed_at": "2026-03-07T12:52:50.307337+00:00"
+  },
+  "01kk4s7b8g1dkpv4nqw8c6xxy4": {
+    "title": "LinkedIn",
+    "ai": {
+      "summary": "This appears to be a generic LinkedIn platform description rather than a Microsoft Fabric technical article. The content does not contain any Fabric-specific technical information or guidance for practitioners.",
+      "key_concepts": [
+        "Professional networking",
+        "Platform overview"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-07T18:37:36.305163+00:00"
   }
 }
