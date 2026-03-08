@@ -1270,5 +1270,21 @@
     },
     "highlights": [],
     "processed_at": "2026-03-07T18:37:36.305163+00:00"
+  },
+  "01kk4wn3x8x0dmbfqhjzqf8mnv": {
+    "title": "Charly Wargnier\u2019s Post",
+    "ai": {
+      "summary": "This article discusses a 33-page playbook from Anthropic about creating a 'Skills' folder for Claude AI to systematize AI interactions. The content focuses on building reusable AI systems rather than one-off commands, which could be relevant for Fabric practitioners looking to integrate AI capabilities into their data workflows.",
+      "key_concepts": [
+        "AI integration",
+        "Claude AI",
+        "Process systematization",
+        "Skills framework"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-08T02:25:17.666172+00:00"
   }
 }

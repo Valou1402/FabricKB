@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-07 18:37 UTC
-> 99 articles · Newest first
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-08 02:25 UTC
+> 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Charly Wargnier’s Post](https://www.linkedin.com/posts/charlywargnier_anthropic-dropped-a-free-33-page-playbook-activity-7435955387377451008-OVoo?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-07 · 🌐 Reader Share Sheet iOS
+
+**Summary:** This article discusses a 33-page playbook from Anthropic about creating a 'Skills' folder for Claude AI to systematize AI interactions. The content focuses on building reusable AI systems rather than one-off commands, which could be relevant for Fabric practitioners looking to integrate AI capabilities into their data workflows.
+
+**Key Concepts:** AI integration, Claude AI, Process systematization, Skills framework
 
 ---
 
