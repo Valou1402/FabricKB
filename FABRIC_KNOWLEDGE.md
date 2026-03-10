@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-10 13:06 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-10 18:54 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Microsoft Fabric Lakehouse sub-item metadata in Microsoft Purview | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-fabric-lakehouse-sub-item-metadata-in-microsoft-purview/4498276)
+📅 2026-03-10 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Microsoft Purview can now scan and extract metadata from Microsoft Fabric Lakehouse, enabling better data management and governance for organizations. This integration provides enhanced visibility into Lakehouse assets and their metadata within the Purview data catalog.
+
+**Key Concepts:** Lakehouse, Microsoft Purview, Metadata scanning, Data governance, Data catalog
 
 ---
 
@@ -1277,12 +1286,5 @@ John Savill
 📅 2026-02-16 · 🌐 readwise onboarding
 
 **Summary:** You can easily save documents to read later using Reader's browser extension or by uploading your files. To find popular content, just click a button to browse highlighted articles, PDFs, and tweets from other users. You can also access your saved documents from the Add Documents button in the app.
-
----
-
-## [Reader: Frequently Asked Questions](https://blog.readwise.io/p/f8c0f71c-fe5f-4025-af57-f9f65c53fed7/)
-📅 2026-02-16 · 🌐 readwise onboarding
-
-**Summary:** Reader lets you save and highlight articles on web and mobile, syncing all notes with Readwise and your apps. You can use keyboard shortcuts on web and a browser extension to save and highlight content easily. Reader organizes your saved articles and helps you read without distractions, while keeping all highlights synced across devices.
 
 ---

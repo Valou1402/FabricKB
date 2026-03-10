@@ -1304,5 +1304,22 @@
     },
     "highlights": [],
     "processed_at": "2026-03-10T06:54:54.763610+00:00"
+  },
+  "01kkc1grnsf2cq339t3vgdq38k": {
+    "title": "Microsoft Fabric Lakehouse sub-item metadata in Microsoft Purview | Microsoft Community Hub",
+    "ai": {
+      "summary": "Microsoft Purview can now scan and extract metadata from Microsoft Fabric Lakehouse, enabling better data management and governance for organizations. This integration provides enhanced visibility into Lakehouse assets and their metadata within the Purview data catalog.",
+      "key_concepts": [
+        "Lakehouse",
+        "Microsoft Purview",
+        "Metadata scanning",
+        "Data governance",
+        "Data catalog"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-10T18:54:00.951476+00:00"
   }
 }
