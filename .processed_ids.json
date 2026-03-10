@@ -1286,5 +1286,23 @@
     },
     "highlights": [],
     "processed_at": "2026-03-08T02:25:17.666172+00:00"
+  },
+  "01kkb7tzy25jpnp976bgdx926z": {
+    "title": "\ud83c\udfafAlexander Korn\u2019s Post",
+    "ai": {
+      "summary": "Alexander Korn developed an AI-powered method using GitHub Copilot to automatically prototype Power BI reports by capturing report pages, mapping navigation, and generating visual diagrams. This approach enables rapid prototyping and redesign of complex reports without modifying the original report structure.",
+      "key_concepts": [
+        "Power BI reports",
+        "AI automation",
+        "GitHub Copilot",
+        "Report prototyping",
+        "Visual diagrams",
+        "Report navigation"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-10T06:54:54.763610+00:00"
   }
 }

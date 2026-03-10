@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-10 02:11 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-10 06:54 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [🎯Alexander Korn’s Post](https://www.linkedin.com/posts/alexanderkorn_powerbi-microsoftfabric-githubcopilot-activity-7436814008730673152-m-DH?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-10 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Alexander Korn developed an AI-powered method using GitHub Copilot to automatically prototype Power BI reports by capturing report pages, mapping navigation, and generating visual diagrams. This approach enables rapid prototyping and redesign of complex reports without modifying the original report structure.
+
+**Key Concepts:** Power BI reports, AI automation, GitHub Copilot, Report prototyping, Visual diagrams, Report navigation
 
 ---
 
@@ -1275,12 +1284,5 @@ John Savill
 📅 2026-02-16 · 🌐 readwise onboarding
 
 **Summary:** Reader lets you save and highlight articles on web and mobile, syncing all notes with Readwise and your apps. You can use keyboard shortcuts on web and a browser extension to save and highlight content easily. Reader organizes your saved articles and helps you read without distractions, while keeping all highlights synced across devices.
-
----
-
-## [Getting Started with Reader](https://blog.readwise.io/p/bf87944f-b0fe-4f08-a461-f75ab8aded6a/)
-📅 2026-02-16 · 🌐 readwise onboarding
-
-**Summary:** Reader is a powerful reading app that lets you save, highlight, and annotate many types of documents using keyboard shortcuts or mobile gestures. It also offers features like text-to-speech, a web highlighter, and YouTube video notes to boost your productivity. The app is constantly improving based on user feedback and includes helpful guides and support.
 
 ---
