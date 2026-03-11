@@ -1339,5 +1339,21 @@
     },
     "highlights": [],
     "processed_at": "2026-03-11T02:11:05.698127+00:00"
+  },
+  "01kkewy7qqp4k2t3zc8vy11ha1": {
+    "title": "Marco \u00d6sterlin\u2019s Post",
+    "ai": {
+      "summary": "Data products in Fabric should focus on solving real user problems rather than just providing data tables with documentation. Success requires ongoing user engagement and treating data product development as continuous work rather than a one-time documentation effort.",
+      "key_concepts": [
+        "Data products",
+        "User engagement",
+        "Data marketplace",
+        "Product management"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-11T18:56:43.780220+00:00"
   }
 }

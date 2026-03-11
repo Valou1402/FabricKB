@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-11 13:06 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-11 18:56 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Marco Österlin’s Post](https://www.linkedin.com/posts/marco-oesterlin_your-data-marketplace-is-full-of-data-assets-activity-7437519670150324224-3_mB?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-11 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Data products in Fabric should focus on solving real user problems rather than just providing data tables with documentation. Success requires ongoing user engagement and treating data product development as continuous work rather than a one-time documentation effort.
+
+**Key Concepts:** Data products, User engagement, Data marketplace, Product management
 
 ---
 
@@ -1281,12 +1290,5 @@ John Savill
 📅 2026-02-17 · 🌐 Reader Share Sheet iOS
 
 **Summary:** Tobias Müller created polyglot, a fast Rust SQL transpiler supporting over 30 SQL dialects with full test coverage. He built it using AI tools like Claude and GPT-5.3-Codex within three weeks, showing strong AI-assisted development potential. The project relies on sqlglot’s open-source code and includes a Wasm/TypeScript SDK for browsers and servers.
-
----
-
-## [Mohammed Adnan’s Post](https://www.linkedin.com/posts/mohammedadnant_powerbi-microsoftfabric-opensource-activity-7429223077005369344-6WTp?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
-📅 2026-02-17 · 🌐 Reader Share Sheet iOS
-
-**Summary:** PBIP Studio is a free, open-source Windows toolkit that simplifies Power BI and Fabric development by automating repetitive tasks. It helps with data migration, model renaming, and local metadata management while running everything locally for privacy. The project invites the community to contribute and improve the tool together.
 
 ---
