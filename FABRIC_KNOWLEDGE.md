@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-10 18:54 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-11 02:11 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Should we abandon the star schema for better usability in PowerBI?](https://www.reddit.com/r/MicrosoftFabric/comments/1rps25y/should_we_abandon_the_star_schema_for_better/?share_id=kYte7i9wPMEFoKMrdKswh&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22)
+📅 2026-03-10 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Discussion about balancing star schema design principles with Power BI usability when dealing with multiple similar tables. The consensus recommends maintaining star schema fundamentals while selectively combining related data and leveraging tools to improve user experience based on actual business requirements.
+
+**Key Concepts:** Star schema, Power BI model design, Data model usability, Table relationships, Business requirements, Model optimization
 
 ---
 
@@ -1279,12 +1288,5 @@ John Savill
 📅 2026-02-17 · 🌐 Reader Share Sheet iOS
 
 **Summary:** PBIP Studio is a free, open-source Windows toolkit that simplifies Power BI and Fabric development by automating repetitive tasks. It helps with data migration, model renaming, and local metadata management while running everything locally for privacy. The project invites the community to contribute and improve the tool together.
-
----
-
-## [Quickly add great reads from the Readwise community to your library](https://blog.readwise.io/p/96321ba4-4a2c-49b9-babd-630cb69255c7/)
-📅 2026-02-16 · 🌐 readwise onboarding
-
-**Summary:** You can easily save documents to read later using Reader's browser extension or by uploading your files. To find popular content, just click a button to browse highlighted articles, PDFs, and tweets from other users. You can also access your saved documents from the Add Documents button in the app.
 
 ---

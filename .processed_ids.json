@@ -1321,5 +1321,23 @@
     },
     "highlights": [],
     "processed_at": "2026-03-10T18:54:00.951476+00:00"
+  },
+  "01kkcmnyp44n3f0rbedpjtdjde": {
+    "title": "Should we abandon the star schema for better usability in PowerBI?",
+    "ai": {
+      "summary": "Discussion about balancing star schema design principles with Power BI usability when dealing with multiple similar tables. The consensus recommends maintaining star schema fundamentals while selectively combining related data and leveraging tools to improve user experience based on actual business requirements.",
+      "key_concepts": [
+        "Star schema",
+        "Power BI model design",
+        "Data model usability",
+        "Table relationships",
+        "Business requirements",
+        "Model optimization"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-11T02:11:05.698127+00:00"
   }
 }
