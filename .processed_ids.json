@@ -1355,5 +1355,25 @@
     },
     "highlights": [],
     "processed_at": "2026-03-11T18:56:43.780220+00:00"
+  },
+  "01kkgz6q94tr3evwh8xrb63dht": {
+    "title": "Tobi M\u00fcller\u2019s Post",
+    "ai": {
+      "summary": "Tobi M\u00fcller created an MCP Server tool that integrates with VS Code or CLI to identify and resolve issues across Microsoft Fabric workloads. The tool includes over 100 validation rules covering Lakehouse, Warehouse, Eventhouse, and Semantic Models, providing detailed remediation guidance with Azure authentication support.",
+      "key_concepts": [
+        "MCP Server",
+        "Lakehouse",
+        "Warehouse",
+        "Eventhouse",
+        "Semantic Model",
+        "VS Code integration",
+        "Azure authentication",
+        "Validation rules"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-12T13:05:47.591822+00:00"
   }
 }

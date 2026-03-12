@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-12 06:59 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-12 13:05 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Tobi Müller’s Post](https://www.linkedin.com/posts/tobias-m_microsoftfabric-powerbi-dataengineering-activity-7437811504923701249-ZlMa?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-12 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Tobi Müller created an MCP Server tool that integrates with VS Code or CLI to identify and resolve issues across Microsoft Fabric workloads. The tool includes over 100 validation rules covering Lakehouse, Warehouse, Eventhouse, and Semantic Models, providing detailed remediation guidance with Azure authentication support.
+
+**Key Concepts:** MCP Server, Lakehouse, Warehouse, Eventhouse, Semantic Model, VS Code integration, Azure authentication, Validation rules
 
 ---
 
@@ -1283,12 +1292,5 @@ John Savill
 📅 2026-02-17 · 🌐 Reader Share Sheet iOS
 
 **Summary:** Alex Powers wants to improve AI development by giving clear instructions. He learned from Jeff Blankenburg that copying code without understanding it slows progress. Alex is working on a project that challenges him to find better solutions and strong business goals.
-
----
-
-## [Tobias Müller’s Post](https://www.linkedin.com/feed/update/urn:li:activity:7429117368427241472?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7429117368427241472%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
-📅 2026-02-17 · 🌐 Reader Share Sheet iOS
-
-**Summary:** Tobias Müller created polyglot, a fast Rust SQL transpiler supporting over 30 SQL dialects with full test coverage. He built it using AI tools like Claude and GPT-5.3-Codex within three weeks, showing strong AI-assisted development potential. The project relies on sqlglot’s open-source code and includes a Wasm/TypeScript SDK for browsers and servers.
 
 ---
