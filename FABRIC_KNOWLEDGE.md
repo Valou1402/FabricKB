@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-13 02:22 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-13 06:58 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Operationalizing Agentic Applications with Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/operationalizing-agentic-applications-with-microsoft-fabric)
+📅 2026-03-13 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Microsoft Fabric enables operationalization of agentic AI applications through comprehensive tracking, monitoring, and analysis capabilities. The platform provides real-time monitoring of agent actions, safety controls, and business impact analysis, demonstrated through an Agentic Banking App example.
+
+**Key Concepts:** Agentic AI applications, Real-time monitoring, Agent tracking, Safety monitoring, Business impact analysis, Production AI systems
 
 ---
 
@@ -1285,12 +1294,5 @@ John Savill
 📅 2026-02-17 · 🌐 Reader Share Sheet iOS
 
 **Summary:** Microsoft Fabric items are owned by personal accounts, causing pipeline failures when passwords change. Using a Service Principal to run deployment pipelines solves this problem. This makes production environments more reliable and stable.
-
----
-
-## [Alex Powers’ Post](https://www.linkedin.com/feed/update/urn:li:activity:7420501150975713280?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7420501150975713280%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
-📅 2026-02-17 · 🌐 Reader Share Sheet iOS
-
-**Summary:** Alex Powers wants to improve AI development by giving clear instructions. He learned from Jeff Blankenburg that copying code without understanding it slows progress. Alex is working on a project that challenges him to find better solutions and strong business goals.
 
 ---

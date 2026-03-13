@@ -1375,5 +1375,23 @@
     },
     "highlights": [],
     "processed_at": "2026-03-12T13:05:47.591822+00:00"
+  },
+  "01kkjxnksf772tt0ecy9f37sy3": {
+    "title": "Operationalizing Agentic Applications with Microsoft Fabric",
+    "ai": {
+      "summary": "Microsoft Fabric enables operationalization of agentic AI applications through comprehensive tracking, monitoring, and analysis capabilities. The platform provides real-time monitoring of agent actions, safety controls, and business impact analysis, demonstrated through an Agentic Banking App example.",
+      "key_concepts": [
+        "Agentic AI applications",
+        "Real-time monitoring",
+        "Agent tracking",
+        "Safety monitoring",
+        "Business impact analysis",
+        "Production AI systems"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-13T06:58:08.356747+00:00"
   }
 }
