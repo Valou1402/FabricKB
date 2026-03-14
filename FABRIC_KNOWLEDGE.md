@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-14 06:52 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-14 12:57 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Dylan Anderson’s Post](https://www.linkedin.com/posts/dylansjanderson_data-success-in-business-does-not-start-with-activity-7438209352919920640-lt-b?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-14 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Data success requires starting with a clear business model that guides data usage and shapes data models from conceptual to physical database designs. Without this foundation, data efforts become ineffective and disorganized.
+
+**Key Concepts:** Business model alignment, Data modeling, Conceptual to physical design, Data strategy, Database design
 
 ---
 
@@ -1287,12 +1296,5 @@ John Savill
 📅 2026-02-17 · 🌐 Reader Share Sheet iOS
 
 **Summary:** Delta Lake 3.2+ now has Row Tracking to follow every change in a table. Each row gets a unique ID that stays the same even after updates. You just need to enable it with a simple table property to start using this helpful feature.
-
----
-
-## [Aleksi Partanen’s Post](https://www.linkedin.com/posts/aleksi-partanen_microsoftfabric-azuredevops-dataengineering-activity-7429426813787070464-0Jvc?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
-📅 2026-02-17 · 🌐 Reader Share Sheet iOS
-
-**Summary:** Microsoft Fabric items are owned by personal accounts, causing pipeline failures when passwords change. Using a Service Principal to run deployment pipelines solves this problem. This makes production environments more reliable and stable.
 
 ---

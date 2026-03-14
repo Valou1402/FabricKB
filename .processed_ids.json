@@ -1393,5 +1393,22 @@
     },
     "highlights": [],
     "processed_at": "2026-03-13T06:58:08.356747+00:00"
+  },
+  "01kknywtd9h9htzbjb8ygy441e": {
+    "title": "Dylan Anderson\u2019s Post",
+    "ai": {
+      "summary": "Data success requires starting with a clear business model that guides data usage and shapes data models from conceptual to physical database designs. Without this foundation, data efforts become ineffective and disorganized.",
+      "key_concepts": [
+        "Business model alignment",
+        "Data modeling",
+        "Conceptual to physical design",
+        "Data strategy",
+        "Database design"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-14T12:57:24.140587+00:00"
   }
 }
