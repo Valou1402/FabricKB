@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-15 12:58 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-15 18:42 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Data as a Product: Applying a Product Mindset to Data at Netflix](https://netflixtechblog.medium.com/data-as-a-product-applying-a-product-mindset-to-data-at-netflix-4a4d1287a31d)
+📅 2026-03-15 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Netflix demonstrates how treating data as a product with clear ownership, quality controls, and documentation improves data trustworthiness and business value. This product mindset approach is highly relevant for Microsoft Fabric practitioners managing data assets across lakehouses, warehouses, and semantic models.
+
+**Key Concepts:** Data as a Product, Data ownership, Data quality, Data documentation, Data lifecycle management, Data governance, Business value
 
 ---
 
@@ -1289,12 +1298,5 @@ John Savill
 📅 2026-02-17 · 🌐 Reader Share Sheet iOS
 
 **Summary:** Boris Cherny wants Claude Code to be a natural part of developers' workflow, not a flashy tool. It helps developers save time on repetitive tasks and focus on important decisions. Claude Code supports long projects and works smoothly with existing tools.
-
----
-
-## [Adrian Chodkowski’s Post](https://www.linkedin.com/posts/adriansql_dataengineering-deltalake-databricks-activity-7429437904923328512-ivCN?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
-📅 2026-02-17 · 🌐 Reader Share Sheet iOS
-
-**Summary:** Delta Lake 3.2+ now has Row Tracking to follow every change in a table. Each row gets a unique ID that stays the same even after updates. You just need to enable it with a simple table property to start using this helpful feature.
 
 ---

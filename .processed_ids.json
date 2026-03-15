@@ -1410,5 +1410,24 @@
     },
     "highlights": [],
     "processed_at": "2026-03-14T12:57:24.140587+00:00"
+  },
+  "01kksb9s7f9y1atq3hx3mdb8qa": {
+    "title": "Data as a Product: Applying a Product Mindset to Data at Netflix",
+    "ai": {
+      "summary": "Netflix demonstrates how treating data as a product with clear ownership, quality controls, and documentation improves data trustworthiness and business value. This product mindset approach is highly relevant for Microsoft Fabric practitioners managing data assets across lakehouses, warehouses, and semantic models.",
+      "key_concepts": [
+        "Data as a Product",
+        "Data ownership",
+        "Data quality",
+        "Data documentation",
+        "Data lifecycle management",
+        "Data governance",
+        "Business value"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-15T18:42:08.029915+00:00"
   }
 }
