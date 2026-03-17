@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-17 07:08 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-17 13:18 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Kurt Buhler’s Post](https://www.linkedin.com/posts/kurtbuhler_semanticlayer-powerbi-databricks-activity-7439623364341628928-KXOP?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-17 · 🌐 Reader Share Sheet iOS
+
+**Summary:** A semantic layer transforms raw data into consistent business terminology across different platforms, serving as a critical component for reliable reporting and AI tool integration. This abstraction layer preserves business knowledge and reduces errors by providing standardized definitions regardless of the underlying platform implementation.
+
+**Key Concepts:** Semantic layer, Business terminology, Consistent reporting, AI integration, Data abstraction
 
 ---
 
@@ -1291,12 +1300,5 @@ John Savill
 📅 2026-02-23 · 🌐 Reader Share Sheet iOS
 
 **Summary:** Iurii Iurchenko wrote a blog about a new Draw.IO library for Microsoft Fabric. He encourages people to like and share his post to help others. The tool helps teams work better using diagrams.
-
----
-
-## [Boris Cherny’s vision for Claude Code isn’t about flashy demos or conversational tricks. It’s about making AI feel like real infrastructure inside the development workflow.](https://www.instagram.com/p/DUVNEohCfX1/?img_index=2&igsh=MWt2ZWtkbGtveTh3Nw==)
-📅 2026-02-17 · 🌐 Reader Share Sheet iOS
-
-**Summary:** Boris Cherny wants Claude Code to be a natural part of developers' workflow, not a flashy tool. It helps developers save time on repetitive tasks and focus on important decisions. Claude Code supports long projects and works smoothly with existing tools.
 
 ---

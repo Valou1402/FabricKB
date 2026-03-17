@@ -1429,5 +1429,22 @@
     },
     "highlights": [],
     "processed_at": "2026-03-15T18:42:08.029915+00:00"
+  },
+  "01kkxsh1t9k3vy05bbxjgynps0": {
+    "title": "Kurt Buhler\u2019s Post",
+    "ai": {
+      "summary": "A semantic layer transforms raw data into consistent business terminology across different platforms, serving as a critical component for reliable reporting and AI tool integration. This abstraction layer preserves business knowledge and reduces errors by providing standardized definitions regardless of the underlying platform implementation.",
+      "key_concepts": [
+        "Semantic layer",
+        "Business terminology",
+        "Consistent reporting",
+        "AI integration",
+        "Data abstraction"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-17T13:18:02.455685+00:00"
   }
 }
