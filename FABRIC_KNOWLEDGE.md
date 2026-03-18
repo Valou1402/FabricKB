@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-18 13:18 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-18 19:04 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [GitHub - microsoft/skills-for-fabric: A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operate over Microsoft Fabric · GitHub](https://github.com/microsoft/skills-for-fabric)
+📅 2026-03-18 · 🌐 Reader Share Sheet iOS
+
+**Summary:** Microsoft's skills-for-fabric GitHub repository provides a collection of tools and Model Context Protocol (MCP) systems that enable developers to interact with Microsoft Fabric through various interfaces including CLI, VSCode, and Claude AI assistant. This repository offers integration capabilities for Fabric practitioners working across different development environments.
+
+**Key Concepts:** MCP systems, CLI integration, VSCode integration, Claude AI integration, Developer tools, Fabric automation
 
 ---
 
@@ -1293,12 +1302,5 @@ John Savill
 📅 2026-02-23 · 🌐 Reader Share Sheet iOS
 
 **Summary:** A data product is a carefully prepared dataset made for a clear purpose. It has clear ownership, metadata, and guarantees for users. Data pipelines help create data products but are just one part of them.
-
----
-
-## [Iurii (Yurri) Iurchenko, FACHDM’s Post](https://www.linkedin.com/posts/4iurchenko_drawio-library-for-microsoft-fabric-activity-7431404923138785280-XjMC?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
-📅 2026-02-23 · 🌐 Reader Share Sheet iOS
-
-**Summary:** Iurii Iurchenko wrote a blog about a new Draw.IO library for Microsoft Fabric. He encourages people to like and share his post to help others. The tool helps teams work better using diagrams.
 
 ---

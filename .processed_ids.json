@@ -1446,5 +1446,23 @@
     },
     "highlights": [],
     "processed_at": "2026-03-17T13:18:02.455685+00:00"
+  },
+  "01km0wpzrct2k3j6mkm963xrtz": {
+    "title": "GitHub - microsoft/skills-for-fabric: A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operate over Microsoft Fabric \u00b7 GitHub",
+    "ai": {
+      "summary": "Microsoft's skills-for-fabric GitHub repository provides a collection of tools and Model Context Protocol (MCP) systems that enable developers to interact with Microsoft Fabric through various interfaces including CLI, VSCode, and Claude AI assistant. This repository offers integration capabilities for Fabric practitioners working across different development environments.",
+      "key_concepts": [
+        "MCP systems",
+        "CLI integration",
+        "VSCode integration",
+        "Claude AI integration",
+        "Developer tools",
+        "Fabric automation"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-18T19:04:23.909211+00:00"
   }
 }
