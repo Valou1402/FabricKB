@@ -1464,5 +1464,23 @@
     },
     "highlights": [],
     "processed_at": "2026-03-18T19:04:23.909211+00:00"
+  },
+  "01km5zj3rjtqhjch04xhqjxmgg": {
+    "title": "We think the embedded nature of DuckDB makes it a perfect companion for Claude in your local workflows. The skills supported include:",
+    "ai": {
+      "summary": "DuckDB Skills is a plugin for Claude Code that enables local data querying and memory management through DuckDB's embedded architecture. The plugin provides capabilities for file reading, memory storage, database state management, and documentation search within local workflows.",
+      "key_concepts": [
+        "DuckDB plugin",
+        "Claude Code integration",
+        "Local data workflows",
+        "Embedded database",
+        "Memory management",
+        "Full-text search"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-20T18:54:25.989931+00:00"
   }
 }

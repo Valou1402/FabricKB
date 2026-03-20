@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-20 13:05 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-20 18:54 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [We think the embedded nature of DuckDB makes it a perfect companion for Claude in your local workflows. The skills supported include:](https://www.linkedin.com/posts/duckdb_were-excited-to-announce-duckdb-skills-ugcPost-7440759251846942721-_QC8?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-20 · 🌐 Reader Share Sheet iOS
+
+**Summary:** DuckDB Skills is a plugin for Claude Code that enables local data querying and memory management through DuckDB's embedded architecture. The plugin provides capabilities for file reading, memory storage, database state management, and documentation search within local workflows.
+
+**Key Concepts:** DuckDB plugin, Claude Code integration, Local data workflows, Embedded database, Memory management, Full-text search
 
 ---
 
@@ -1295,12 +1304,5 @@ John Savill
 📅 2026-02-25 · 🌐 Reader Share Sheet iOS
 
 **Summary:** Barney Lawrence shared an update about the new approval workflows feature in Purview Data Governance. He invites users to try it and give feedback. The feature is still limited but could improve with future updates.
-
----
-
-## [Tom Baeyens’ Post](https://www.linkedin.com/posts/tombaeyens_i-hope-you-are-not-calling-your-data-pipelines-activity-7429847820611858432-eMow?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
-📅 2026-02-23 · 🌐 Reader Share Sheet iOS
-
-**Summary:** A data product is a carefully prepared dataset made for a clear purpose. It has clear ownership, metadata, and guarantees for users. Data pipelines help create data products but are just one part of them.
 
 ---
