@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-22 12:56 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-03-22 18:40 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [Grégory LE TERTE’s Post](https://www.linkedin.com/posts/gregoryleterte_claudecode-anthropic-developertools-share-7440716307572019201-yYA0?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-03-22 · 🌐 Reader Share Sheet iOS
+
+**Summary:** This article introduces ClaudeCode Configurator, an open-source web tool that simplifies the configuration of Claude Code projects by providing visual configuration of all aspects and generating proper config files. The tool offers real-time preview, ZIP export functionality, and configuration auditing with 25+ checks, all in a single HTML file without requiring frameworks or servers.
+
+**Key Concepts:** Claude Code, Configuration management, Open source tools, Developer experience, Config file generation, Project setup automation
 
 ---
 
@@ -1297,12 +1306,5 @@ John Savill
 📅 2026-02-25 · 🌐 Reader Share Sheet iOS
 
 **Summary:** Data contracts help data architects maintain quality across different domains without centralizing work. They provide a standard way to track and manage data quality with automation and version control. This improves visibility, supports reporting, and reduces manual audits.
-
----
-
-## [Barney Lawrence’s Post](https://www.linkedin.com/posts/barneylawrence_pros-and-cons-of-approval-workflows-in-purview-activity-7432083045802971137-QR4Q?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
-📅 2026-02-25 · 🌐 Reader Share Sheet iOS
-
-**Summary:** Barney Lawrence shared an update about the new approval workflows feature in Purview Data Governance. He invites users to try it and give feedback. The feature is still limited but could improve with future updates.
 
 ---

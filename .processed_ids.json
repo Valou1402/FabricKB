@@ -1482,5 +1482,23 @@
     },
     "highlights": [],
     "processed_at": "2026-03-20T18:54:25.989931+00:00"
+  },
+  "01kmb6gjnp19fgq61se058x2xr": {
+    "title": "Gr\u00e9gory LE TERTE\u2019s Post",
+    "ai": {
+      "summary": "This article introduces ClaudeCode Configurator, an open-source web tool that simplifies the configuration of Claude Code projects by providing visual configuration of all aspects and generating proper config files. The tool offers real-time preview, ZIP export functionality, and configuration auditing with 25+ checks, all in a single HTML file without requiring frameworks or servers.",
+      "key_concepts": [
+        "Claude Code",
+        "Configuration management",
+        "Open source tools",
+        "Developer experience",
+        "Config file generation",
+        "Project setup automation"
+      ],
+      "has_code": false,
+      "code_language": null
+    },
+    "highlights": [],
+    "processed_at": "2026-03-22T18:40:42.781643+00:00"
   }
 }
