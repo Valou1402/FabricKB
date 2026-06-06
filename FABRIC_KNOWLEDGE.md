@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-06-06 13:48 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-06-06 19:26 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [GitHub - djouallah/rayfin-duckdb-wasm · GitHub](https://github.com/djouallah/rayfin-duckdb-wasm)
+📅 2026-06-06 · 🌐 Reader Share Sheet iOS
+
+**Summary:** This appears to be a GitHub repository link for a project called 'rayfin-duckdb-wasm' that combines DuckDB WebAssembly capabilities. The content provided is minimal and only shows the standard GitHub contribution message without technical details.
+
+**Key Concepts:** DuckDB, WebAssembly, GitHub repository
 
 ---
 
@@ -1299,12 +1308,5 @@ John Savill
 📅 2026-02-25 · 🌐 Reader Share Sheet iOS
 
 **Summary:** Microsoft Fabric can have hidden delays and errors when Spark, OneLake, and mirroring work together under heavy use. Monitoring job success alone is not enough; teams need to check data freshness, permissions, and capacity to catch problems early. Using automated checks and clear triage steps helps keep data reliable and avoids surprises.
-
----
-
-## [Tom Baeyens’ Post](https://www.linkedin.com/posts/tombaeyens_i-am-a-data-architect-what-use-are-data-activity-7432388752007729152-suAM?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
-📅 2026-02-25 · 🌐 Reader Share Sheet iOS
-
-**Summary:** Data contracts help data architects maintain quality across different domains without centralizing work. They provide a standard way to track and manage data quality with automation and version control. This improves visibility, supports reporting, and reduces manual audits.
 
 ---
