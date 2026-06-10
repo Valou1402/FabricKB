@@ -1,9 +1,18 @@
 # 🧠 FabricKB — Microsoft Fabric Knowledge Base
 
-> Auto-generated from Valentin's Readwise library · Last updated: 2026-06-10 15:38 UTC
+> Auto-generated from Valentin's Readwise library · Last updated: 2026-06-10 20:32 UTC
 > 100 articles · Newest first
 >
 > **How to use:** Share the raw URL of this file with Claude at the start of any Fabric session.
+
+---
+
+## [#powerbi #microsoftfabric #aiagents #fabricai #rayfin #powerbireporting #skillsforfabric #copilotforfabric #dataanalytics #businessintelligence #powerbideveloper #generativeai #microsoftai… | Markus Lehtola](https://www.linkedin.com/posts/markuslehtola_powerbi-microsoftfabric-aiagents-ugcPost-7470394308714545152-8Kj_?utm_source=share&utm_medium=member_ios&rcm=ACoAAA4TApsBpcD7dMto9tdEqMhSTfRhiYAy83E)
+📅 2026-06-10 · 🌐 Reader Share Sheet iOS
+
+**Summary:** A creative demonstration of Power BI capabilities where a developer built a fully functional Windows XP desktop interface using Power BI reports and semantic models. The project includes working applications like Minesweeper and Notepad, showcasing advanced Power BI visualization and interactivity techniques.
+
+**Key Concepts:** Power BI reports, Semantic models, Power BI visualizations, Interactive dashboards, Creative Power BI applications
 
 ---
 
@@ -1301,12 +1310,5 @@ John Savill
 📅 2026-02-26 · 🌐 Reader Share Sheet iOS
 
 **Summary:** A data product is a trusted, well-defined dataset owned by a team and made easy for users to find and understand. It focuses on data quality, clear ownership, and how data is consumed, not just how it moves. Good data strategies include governance, performance, and aligning data with business goals for better decisions.
-
----
-
-## [Keeping Spark, OneLake, and Mirroring Reliable in Microsoft Fabric](https://christopherfinlan.com/2026/02/25/fabric-spark-failure-playbook-onelake-mirroring-production/)
-📅 2026-02-25 · 🌐 Reader Share Sheet iOS
-
-**Summary:** Microsoft Fabric can have hidden delays and errors when Spark, OneLake, and mirroring work together under heavy use. Monitoring job success alone is not enough; teams need to check data freshness, permissions, and capacity to catch problems early. Using automated checks and clear triage steps helps keep data reliable and avoids surprises.
 
 ---
